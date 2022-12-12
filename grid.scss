@@ -1,0 +1,78 @@
+//Desktop
+@for $column1 from 1 through 4{
+
+    .grid.fr-#{$column1}, .fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
+
+    @for $column2 from 1 through 4{
+
+        .grid.fr-#{$column1}-#{$column2}, .fr-#{$column1}-#{$column2} .grid{grid-template-columns:#{$column1}fr #{$column2}fr !important;}
+
+        @for $column3 from 1 through 4{
+
+            .grid.fr-#{$column1}-#{$column2}-#{$column3}, .fr-#{$column1}-#{$column2}-#{$column3} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr !important;}
+            
+            @for $column4 from 1 through 4{
+                .grid.fr-#{$column1}-#{$column2}-#{$column3}-#{$column4}, .fr-#{$column1}-#{$column2}-#{$column3}-#{$column4} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr #{$column4}fr !important;}
+            }
+
+        }
+
+    }
+
+}
+
+//Laptop
+@media(max-width:1024px){
+
+    @for $column1 from 1 through 4{
+
+        .grid.md-fr-#{$column1}, .md-fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
+    
+        @for $column2 from 1 through 4{
+    
+            .grid.md-fr-#{$column1}-#{$column2}, .md-fr-#{$column1}-#{$column2} .grid{grid-template-columns:#{$column1}fr #{$column2}fr !important;}
+    
+            @for $column3 from 1 through 4{
+    
+                .grid.md-fr-#{$column1}-#{$column2}-#{$column3}, .md-fr-#{$column1}-#{$column2}-#{$column3} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr !important;}
+                
+                @for $column4 from 1 through 4{
+                    .grid.md-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4}, .md-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr #{$column4}fr !important;}
+                } 
+    
+            }
+    
+        }
+    
+    } 
+
+}
+
+//Mobile
+@media(max-width:550px){
+
+    .grid{grid-template-areas:1fr !important;}
+
+    @for $column1 from 1 through 4{
+
+        .grid.sm-fr-#{$column1}, .sm-fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
+    
+        @for $column2 from 1 through 4{
+    
+            .grid.sm-fr-#{$column1}-#{$column2}, .sm-fr-#{$column1}-#{$column2} .grid{grid-template-columns:#{$column1}fr #{$column2}fr !important;}
+    
+            @for $column3 from 1 through 4{
+    
+                .grid.sm-fr-#{$column1}-#{$column2}-#{$column3}, .sm-fr-#{$column1}-#{$column2}-#{$column3} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr !important;}
+                
+                @for $column4 from 1 through 4{
+                    .grid.sm-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4}, .sm-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr #{$column4}fr !important;}
+                }
+    
+            }
+    
+        }
+    
+    }
+
+}
