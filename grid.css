@@ -2381,7 +2381,7 @@
   }
 }
 @media (max-width: 550px) {
-  .grid {
+  html[lang=en] .grid {
     grid-template-columns: 1fr !important;
   }
   .grid.sm-fr-1, .sm-fr-1 .grid {
