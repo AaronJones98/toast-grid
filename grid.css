@@ -1359,1024 +1359,1024 @@
 }
 
 @media (max-width: 1024px) {
-  .grid.md-fr-1, .md-fr-1 .grid {
+  .grid.tablet-fr-1, .tablet-fr-1 .grid {
     grid-template-columns: 1fr !important;
   }
-  .grid.md-fr-1-1, .md-fr-1-1 .grid {
+  .grid.tablet-fr-1-1, .tablet-fr-1-1 .grid {
     grid-template-columns: 1fr 1fr !important;
   }
-  .grid.md-fr-1-1-1, .md-fr-1-1-1 .grid {
+  .grid.tablet-fr-1-1-1, .tablet-fr-1-1-1 .grid {
     grid-template-columns: 1fr 1fr 1fr !important;
   }
-  .grid.md-fr-1-1-1-1, .md-fr-1-1-1-1 .grid {
+  .grid.tablet-fr-1-1-1-1, .tablet-fr-1-1-1-1 .grid {
     grid-template-columns: 1fr 1fr 1fr 1fr !important;
   }
-  .grid.md-fr-1-1-1-2, .md-fr-1-1-1-2 .grid {
+  .grid.tablet-fr-1-1-1-2, .tablet-fr-1-1-1-2 .grid {
     grid-template-columns: 1fr 1fr 1fr 2fr !important;
   }
-  .grid.md-fr-1-1-1-3, .md-fr-1-1-1-3 .grid {
+  .grid.tablet-fr-1-1-1-3, .tablet-fr-1-1-1-3 .grid {
     grid-template-columns: 1fr 1fr 1fr 3fr !important;
   }
-  .grid.md-fr-1-1-1-4, .md-fr-1-1-1-4 .grid {
+  .grid.tablet-fr-1-1-1-4, .tablet-fr-1-1-1-4 .grid {
     grid-template-columns: 1fr 1fr 1fr 4fr !important;
   }
-  .grid.md-fr-1-1-2, .md-fr-1-1-2 .grid {
+  .grid.tablet-fr-1-1-2, .tablet-fr-1-1-2 .grid {
     grid-template-columns: 1fr 1fr 2fr !important;
   }
-  .grid.md-fr-1-1-2-1, .md-fr-1-1-2-1 .grid {
+  .grid.tablet-fr-1-1-2-1, .tablet-fr-1-1-2-1 .grid {
     grid-template-columns: 1fr 1fr 2fr 1fr !important;
   }
-  .grid.md-fr-1-1-2-2, .md-fr-1-1-2-2 .grid {
+  .grid.tablet-fr-1-1-2-2, .tablet-fr-1-1-2-2 .grid {
     grid-template-columns: 1fr 1fr 2fr 2fr !important;
   }
-  .grid.md-fr-1-1-2-3, .md-fr-1-1-2-3 .grid {
+  .grid.tablet-fr-1-1-2-3, .tablet-fr-1-1-2-3 .grid {
     grid-template-columns: 1fr 1fr 2fr 3fr !important;
   }
-  .grid.md-fr-1-1-2-4, .md-fr-1-1-2-4 .grid {
+  .grid.tablet-fr-1-1-2-4, .tablet-fr-1-1-2-4 .grid {
     grid-template-columns: 1fr 1fr 2fr 4fr !important;
   }
-  .grid.md-fr-1-1-3, .md-fr-1-1-3 .grid {
+  .grid.tablet-fr-1-1-3, .tablet-fr-1-1-3 .grid {
     grid-template-columns: 1fr 1fr 3fr !important;
   }
-  .grid.md-fr-1-1-3-1, .md-fr-1-1-3-1 .grid {
+  .grid.tablet-fr-1-1-3-1, .tablet-fr-1-1-3-1 .grid {
     grid-template-columns: 1fr 1fr 3fr 1fr !important;
   }
-  .grid.md-fr-1-1-3-2, .md-fr-1-1-3-2 .grid {
+  .grid.tablet-fr-1-1-3-2, .tablet-fr-1-1-3-2 .grid {
     grid-template-columns: 1fr 1fr 3fr 2fr !important;
   }
-  .grid.md-fr-1-1-3-3, .md-fr-1-1-3-3 .grid {
+  .grid.tablet-fr-1-1-3-3, .tablet-fr-1-1-3-3 .grid {
     grid-template-columns: 1fr 1fr 3fr 3fr !important;
   }
-  .grid.md-fr-1-1-3-4, .md-fr-1-1-3-4 .grid {
+  .grid.tablet-fr-1-1-3-4, .tablet-fr-1-1-3-4 .grid {
     grid-template-columns: 1fr 1fr 3fr 4fr !important;
   }
-  .grid.md-fr-1-1-4, .md-fr-1-1-4 .grid {
+  .grid.tablet-fr-1-1-4, .tablet-fr-1-1-4 .grid {
     grid-template-columns: 1fr 1fr 4fr !important;
   }
-  .grid.md-fr-1-1-4-1, .md-fr-1-1-4-1 .grid {
+  .grid.tablet-fr-1-1-4-1, .tablet-fr-1-1-4-1 .grid {
     grid-template-columns: 1fr 1fr 4fr 1fr !important;
   }
-  .grid.md-fr-1-1-4-2, .md-fr-1-1-4-2 .grid {
+  .grid.tablet-fr-1-1-4-2, .tablet-fr-1-1-4-2 .grid {
     grid-template-columns: 1fr 1fr 4fr 2fr !important;
   }
-  .grid.md-fr-1-1-4-3, .md-fr-1-1-4-3 .grid {
+  .grid.tablet-fr-1-1-4-3, .tablet-fr-1-1-4-3 .grid {
     grid-template-columns: 1fr 1fr 4fr 3fr !important;
   }
-  .grid.md-fr-1-1-4-4, .md-fr-1-1-4-4 .grid {
+  .grid.tablet-fr-1-1-4-4, .tablet-fr-1-1-4-4 .grid {
     grid-template-columns: 1fr 1fr 4fr 4fr !important;
   }
-  .grid.md-fr-1-2, .md-fr-1-2 .grid {
+  .grid.tablet-fr-1-2, .tablet-fr-1-2 .grid {
     grid-template-columns: 1fr 2fr !important;
   }
-  .grid.md-fr-1-2-1, .md-fr-1-2-1 .grid {
+  .grid.tablet-fr-1-2-1, .tablet-fr-1-2-1 .grid {
     grid-template-columns: 1fr 2fr 1fr !important;
   }
-  .grid.md-fr-1-2-1-1, .md-fr-1-2-1-1 .grid {
+  .grid.tablet-fr-1-2-1-1, .tablet-fr-1-2-1-1 .grid {
     grid-template-columns: 1fr 2fr 1fr 1fr !important;
   }
-  .grid.md-fr-1-2-1-2, .md-fr-1-2-1-2 .grid {
+  .grid.tablet-fr-1-2-1-2, .tablet-fr-1-2-1-2 .grid {
     grid-template-columns: 1fr 2fr 1fr 2fr !important;
   }
-  .grid.md-fr-1-2-1-3, .md-fr-1-2-1-3 .grid {
+  .grid.tablet-fr-1-2-1-3, .tablet-fr-1-2-1-3 .grid {
     grid-template-columns: 1fr 2fr 1fr 3fr !important;
   }
-  .grid.md-fr-1-2-1-4, .md-fr-1-2-1-4 .grid {
+  .grid.tablet-fr-1-2-1-4, .tablet-fr-1-2-1-4 .grid {
     grid-template-columns: 1fr 2fr 1fr 4fr !important;
   }
-  .grid.md-fr-1-2-2, .md-fr-1-2-2 .grid {
+  .grid.tablet-fr-1-2-2, .tablet-fr-1-2-2 .grid {
     grid-template-columns: 1fr 2fr 2fr !important;
   }
-  .grid.md-fr-1-2-2-1, .md-fr-1-2-2-1 .grid {
+  .grid.tablet-fr-1-2-2-1, .tablet-fr-1-2-2-1 .grid {
     grid-template-columns: 1fr 2fr 2fr 1fr !important;
   }
-  .grid.md-fr-1-2-2-2, .md-fr-1-2-2-2 .grid {
+  .grid.tablet-fr-1-2-2-2, .tablet-fr-1-2-2-2 .grid {
     grid-template-columns: 1fr 2fr 2fr 2fr !important;
   }
-  .grid.md-fr-1-2-2-3, .md-fr-1-2-2-3 .grid {
+  .grid.tablet-fr-1-2-2-3, .tablet-fr-1-2-2-3 .grid {
     grid-template-columns: 1fr 2fr 2fr 3fr !important;
   }
-  .grid.md-fr-1-2-2-4, .md-fr-1-2-2-4 .grid {
+  .grid.tablet-fr-1-2-2-4, .tablet-fr-1-2-2-4 .grid {
     grid-template-columns: 1fr 2fr 2fr 4fr !important;
   }
-  .grid.md-fr-1-2-3, .md-fr-1-2-3 .grid {
+  .grid.tablet-fr-1-2-3, .tablet-fr-1-2-3 .grid {
     grid-template-columns: 1fr 2fr 3fr !important;
   }
-  .grid.md-fr-1-2-3-1, .md-fr-1-2-3-1 .grid {
+  .grid.tablet-fr-1-2-3-1, .tablet-fr-1-2-3-1 .grid {
     grid-template-columns: 1fr 2fr 3fr 1fr !important;
   }
-  .grid.md-fr-1-2-3-2, .md-fr-1-2-3-2 .grid {
+  .grid.tablet-fr-1-2-3-2, .tablet-fr-1-2-3-2 .grid {
     grid-template-columns: 1fr 2fr 3fr 2fr !important;
   }
-  .grid.md-fr-1-2-3-3, .md-fr-1-2-3-3 .grid {
+  .grid.tablet-fr-1-2-3-3, .tablet-fr-1-2-3-3 .grid {
     grid-template-columns: 1fr 2fr 3fr 3fr !important;
   }
-  .grid.md-fr-1-2-3-4, .md-fr-1-2-3-4 .grid {
+  .grid.tablet-fr-1-2-3-4, .tablet-fr-1-2-3-4 .grid {
     grid-template-columns: 1fr 2fr 3fr 4fr !important;
   }
-  .grid.md-fr-1-2-4, .md-fr-1-2-4 .grid {
+  .grid.tablet-fr-1-2-4, .tablet-fr-1-2-4 .grid {
     grid-template-columns: 1fr 2fr 4fr !important;
   }
-  .grid.md-fr-1-2-4-1, .md-fr-1-2-4-1 .grid {
+  .grid.tablet-fr-1-2-4-1, .tablet-fr-1-2-4-1 .grid {
     grid-template-columns: 1fr 2fr 4fr 1fr !important;
   }
-  .grid.md-fr-1-2-4-2, .md-fr-1-2-4-2 .grid {
+  .grid.tablet-fr-1-2-4-2, .tablet-fr-1-2-4-2 .grid {
     grid-template-columns: 1fr 2fr 4fr 2fr !important;
   }
-  .grid.md-fr-1-2-4-3, .md-fr-1-2-4-3 .grid {
+  .grid.tablet-fr-1-2-4-3, .tablet-fr-1-2-4-3 .grid {
     grid-template-columns: 1fr 2fr 4fr 3fr !important;
   }
-  .grid.md-fr-1-2-4-4, .md-fr-1-2-4-4 .grid {
+  .grid.tablet-fr-1-2-4-4, .tablet-fr-1-2-4-4 .grid {
     grid-template-columns: 1fr 2fr 4fr 4fr !important;
   }
-  .grid.md-fr-1-3, .md-fr-1-3 .grid {
+  .grid.tablet-fr-1-3, .tablet-fr-1-3 .grid {
     grid-template-columns: 1fr 3fr !important;
   }
-  .grid.md-fr-1-3-1, .md-fr-1-3-1 .grid {
+  .grid.tablet-fr-1-3-1, .tablet-fr-1-3-1 .grid {
     grid-template-columns: 1fr 3fr 1fr !important;
   }
-  .grid.md-fr-1-3-1-1, .md-fr-1-3-1-1 .grid {
+  .grid.tablet-fr-1-3-1-1, .tablet-fr-1-3-1-1 .grid {
     grid-template-columns: 1fr 3fr 1fr 1fr !important;
   }
-  .grid.md-fr-1-3-1-2, .md-fr-1-3-1-2 .grid {
+  .grid.tablet-fr-1-3-1-2, .tablet-fr-1-3-1-2 .grid {
     grid-template-columns: 1fr 3fr 1fr 2fr !important;
   }
-  .grid.md-fr-1-3-1-3, .md-fr-1-3-1-3 .grid {
+  .grid.tablet-fr-1-3-1-3, .tablet-fr-1-3-1-3 .grid {
     grid-template-columns: 1fr 3fr 1fr 3fr !important;
   }
-  .grid.md-fr-1-3-1-4, .md-fr-1-3-1-4 .grid {
+  .grid.tablet-fr-1-3-1-4, .tablet-fr-1-3-1-4 .grid {
     grid-template-columns: 1fr 3fr 1fr 4fr !important;
   }
-  .grid.md-fr-1-3-2, .md-fr-1-3-2 .grid {
+  .grid.tablet-fr-1-3-2, .tablet-fr-1-3-2 .grid {
     grid-template-columns: 1fr 3fr 2fr !important;
   }
-  .grid.md-fr-1-3-2-1, .md-fr-1-3-2-1 .grid {
+  .grid.tablet-fr-1-3-2-1, .tablet-fr-1-3-2-1 .grid {
     grid-template-columns: 1fr 3fr 2fr 1fr !important;
   }
-  .grid.md-fr-1-3-2-2, .md-fr-1-3-2-2 .grid {
+  .grid.tablet-fr-1-3-2-2, .tablet-fr-1-3-2-2 .grid {
     grid-template-columns: 1fr 3fr 2fr 2fr !important;
   }
-  .grid.md-fr-1-3-2-3, .md-fr-1-3-2-3 .grid {
+  .grid.tablet-fr-1-3-2-3, .tablet-fr-1-3-2-3 .grid {
     grid-template-columns: 1fr 3fr 2fr 3fr !important;
   }
-  .grid.md-fr-1-3-2-4, .md-fr-1-3-2-4 .grid {
+  .grid.tablet-fr-1-3-2-4, .tablet-fr-1-3-2-4 .grid {
     grid-template-columns: 1fr 3fr 2fr 4fr !important;
   }
-  .grid.md-fr-1-3-3, .md-fr-1-3-3 .grid {
+  .grid.tablet-fr-1-3-3, .tablet-fr-1-3-3 .grid {
     grid-template-columns: 1fr 3fr 3fr !important;
   }
-  .grid.md-fr-1-3-3-1, .md-fr-1-3-3-1 .grid {
+  .grid.tablet-fr-1-3-3-1, .tablet-fr-1-3-3-1 .grid {
     grid-template-columns: 1fr 3fr 3fr 1fr !important;
   }
-  .grid.md-fr-1-3-3-2, .md-fr-1-3-3-2 .grid {
+  .grid.tablet-fr-1-3-3-2, .tablet-fr-1-3-3-2 .grid {
     grid-template-columns: 1fr 3fr 3fr 2fr !important;
   }
-  .grid.md-fr-1-3-3-3, .md-fr-1-3-3-3 .grid {
+  .grid.tablet-fr-1-3-3-3, .tablet-fr-1-3-3-3 .grid {
     grid-template-columns: 1fr 3fr 3fr 3fr !important;
   }
-  .grid.md-fr-1-3-3-4, .md-fr-1-3-3-4 .grid {
+  .grid.tablet-fr-1-3-3-4, .tablet-fr-1-3-3-4 .grid {
     grid-template-columns: 1fr 3fr 3fr 4fr !important;
   }
-  .grid.md-fr-1-3-4, .md-fr-1-3-4 .grid {
+  .grid.tablet-fr-1-3-4, .tablet-fr-1-3-4 .grid {
     grid-template-columns: 1fr 3fr 4fr !important;
   }
-  .grid.md-fr-1-3-4-1, .md-fr-1-3-4-1 .grid {
+  .grid.tablet-fr-1-3-4-1, .tablet-fr-1-3-4-1 .grid {
     grid-template-columns: 1fr 3fr 4fr 1fr !important;
   }
-  .grid.md-fr-1-3-4-2, .md-fr-1-3-4-2 .grid {
+  .grid.tablet-fr-1-3-4-2, .tablet-fr-1-3-4-2 .grid {
     grid-template-columns: 1fr 3fr 4fr 2fr !important;
   }
-  .grid.md-fr-1-3-4-3, .md-fr-1-3-4-3 .grid {
+  .grid.tablet-fr-1-3-4-3, .tablet-fr-1-3-4-3 .grid {
     grid-template-columns: 1fr 3fr 4fr 3fr !important;
   }
-  .grid.md-fr-1-3-4-4, .md-fr-1-3-4-4 .grid {
+  .grid.tablet-fr-1-3-4-4, .tablet-fr-1-3-4-4 .grid {
     grid-template-columns: 1fr 3fr 4fr 4fr !important;
   }
-  .grid.md-fr-1-4, .md-fr-1-4 .grid {
+  .grid.tablet-fr-1-4, .tablet-fr-1-4 .grid {
     grid-template-columns: 1fr 4fr !important;
   }
-  .grid.md-fr-1-4-1, .md-fr-1-4-1 .grid {
+  .grid.tablet-fr-1-4-1, .tablet-fr-1-4-1 .grid {
     grid-template-columns: 1fr 4fr 1fr !important;
   }
-  .grid.md-fr-1-4-1-1, .md-fr-1-4-1-1 .grid {
+  .grid.tablet-fr-1-4-1-1, .tablet-fr-1-4-1-1 .grid {
     grid-template-columns: 1fr 4fr 1fr 1fr !important;
   }
-  .grid.md-fr-1-4-1-2, .md-fr-1-4-1-2 .grid {
+  .grid.tablet-fr-1-4-1-2, .tablet-fr-1-4-1-2 .grid {
     grid-template-columns: 1fr 4fr 1fr 2fr !important;
   }
-  .grid.md-fr-1-4-1-3, .md-fr-1-4-1-3 .grid {
+  .grid.tablet-fr-1-4-1-3, .tablet-fr-1-4-1-3 .grid {
     grid-template-columns: 1fr 4fr 1fr 3fr !important;
   }
-  .grid.md-fr-1-4-1-4, .md-fr-1-4-1-4 .grid {
+  .grid.tablet-fr-1-4-1-4, .tablet-fr-1-4-1-4 .grid {
     grid-template-columns: 1fr 4fr 1fr 4fr !important;
   }
-  .grid.md-fr-1-4-2, .md-fr-1-4-2 .grid {
+  .grid.tablet-fr-1-4-2, .tablet-fr-1-4-2 .grid {
     grid-template-columns: 1fr 4fr 2fr !important;
   }
-  .grid.md-fr-1-4-2-1, .md-fr-1-4-2-1 .grid {
+  .grid.tablet-fr-1-4-2-1, .tablet-fr-1-4-2-1 .grid {
     grid-template-columns: 1fr 4fr 2fr 1fr !important;
   }
-  .grid.md-fr-1-4-2-2, .md-fr-1-4-2-2 .grid {
+  .grid.tablet-fr-1-4-2-2, .tablet-fr-1-4-2-2 .grid {
     grid-template-columns: 1fr 4fr 2fr 2fr !important;
   }
-  .grid.md-fr-1-4-2-3, .md-fr-1-4-2-3 .grid {
+  .grid.tablet-fr-1-4-2-3, .tablet-fr-1-4-2-3 .grid {
     grid-template-columns: 1fr 4fr 2fr 3fr !important;
   }
-  .grid.md-fr-1-4-2-4, .md-fr-1-4-2-4 .grid {
+  .grid.tablet-fr-1-4-2-4, .tablet-fr-1-4-2-4 .grid {
     grid-template-columns: 1fr 4fr 2fr 4fr !important;
   }
-  .grid.md-fr-1-4-3, .md-fr-1-4-3 .grid {
+  .grid.tablet-fr-1-4-3, .tablet-fr-1-4-3 .grid {
     grid-template-columns: 1fr 4fr 3fr !important;
   }
-  .grid.md-fr-1-4-3-1, .md-fr-1-4-3-1 .grid {
+  .grid.tablet-fr-1-4-3-1, .tablet-fr-1-4-3-1 .grid {
     grid-template-columns: 1fr 4fr 3fr 1fr !important;
   }
-  .grid.md-fr-1-4-3-2, .md-fr-1-4-3-2 .grid {
+  .grid.tablet-fr-1-4-3-2, .tablet-fr-1-4-3-2 .grid {
     grid-template-columns: 1fr 4fr 3fr 2fr !important;
   }
-  .grid.md-fr-1-4-3-3, .md-fr-1-4-3-3 .grid {
+  .grid.tablet-fr-1-4-3-3, .tablet-fr-1-4-3-3 .grid {
     grid-template-columns: 1fr 4fr 3fr 3fr !important;
   }
-  .grid.md-fr-1-4-3-4, .md-fr-1-4-3-4 .grid {
+  .grid.tablet-fr-1-4-3-4, .tablet-fr-1-4-3-4 .grid {
     grid-template-columns: 1fr 4fr 3fr 4fr !important;
   }
-  .grid.md-fr-1-4-4, .md-fr-1-4-4 .grid {
+  .grid.tablet-fr-1-4-4, .tablet-fr-1-4-4 .grid {
     grid-template-columns: 1fr 4fr 4fr !important;
   }
-  .grid.md-fr-1-4-4-1, .md-fr-1-4-4-1 .grid {
+  .grid.tablet-fr-1-4-4-1, .tablet-fr-1-4-4-1 .grid {
     grid-template-columns: 1fr 4fr 4fr 1fr !important;
   }
-  .grid.md-fr-1-4-4-2, .md-fr-1-4-4-2 .grid {
+  .grid.tablet-fr-1-4-4-2, .tablet-fr-1-4-4-2 .grid {
     grid-template-columns: 1fr 4fr 4fr 2fr !important;
   }
-  .grid.md-fr-1-4-4-3, .md-fr-1-4-4-3 .grid {
+  .grid.tablet-fr-1-4-4-3, .tablet-fr-1-4-4-3 .grid {
     grid-template-columns: 1fr 4fr 4fr 3fr !important;
   }
-  .grid.md-fr-1-4-4-4, .md-fr-1-4-4-4 .grid {
+  .grid.tablet-fr-1-4-4-4, .tablet-fr-1-4-4-4 .grid {
     grid-template-columns: 1fr 4fr 4fr 4fr !important;
   }
-  .grid.md-fr-2, .md-fr-2 .grid {
+  .grid.tablet-fr-2, .tablet-fr-2 .grid {
     grid-template-columns: 2fr !important;
   }
-  .grid.md-fr-2-1, .md-fr-2-1 .grid {
+  .grid.tablet-fr-2-1, .tablet-fr-2-1 .grid {
     grid-template-columns: 2fr 1fr !important;
   }
-  .grid.md-fr-2-1-1, .md-fr-2-1-1 .grid {
+  .grid.tablet-fr-2-1-1, .tablet-fr-2-1-1 .grid {
     grid-template-columns: 2fr 1fr 1fr !important;
   }
-  .grid.md-fr-2-1-1-1, .md-fr-2-1-1-1 .grid {
+  .grid.tablet-fr-2-1-1-1, .tablet-fr-2-1-1-1 .grid {
     grid-template-columns: 2fr 1fr 1fr 1fr !important;
   }
-  .grid.md-fr-2-1-1-2, .md-fr-2-1-1-2 .grid {
+  .grid.tablet-fr-2-1-1-2, .tablet-fr-2-1-1-2 .grid {
     grid-template-columns: 2fr 1fr 1fr 2fr !important;
   }
-  .grid.md-fr-2-1-1-3, .md-fr-2-1-1-3 .grid {
+  .grid.tablet-fr-2-1-1-3, .tablet-fr-2-1-1-3 .grid {
     grid-template-columns: 2fr 1fr 1fr 3fr !important;
   }
-  .grid.md-fr-2-1-1-4, .md-fr-2-1-1-4 .grid {
+  .grid.tablet-fr-2-1-1-4, .tablet-fr-2-1-1-4 .grid {
     grid-template-columns: 2fr 1fr 1fr 4fr !important;
   }
-  .grid.md-fr-2-1-2, .md-fr-2-1-2 .grid {
+  .grid.tablet-fr-2-1-2, .tablet-fr-2-1-2 .grid {
     grid-template-columns: 2fr 1fr 2fr !important;
   }
-  .grid.md-fr-2-1-2-1, .md-fr-2-1-2-1 .grid {
+  .grid.tablet-fr-2-1-2-1, .tablet-fr-2-1-2-1 .grid {
     grid-template-columns: 2fr 1fr 2fr 1fr !important;
   }
-  .grid.md-fr-2-1-2-2, .md-fr-2-1-2-2 .grid {
+  .grid.tablet-fr-2-1-2-2, .tablet-fr-2-1-2-2 .grid {
     grid-template-columns: 2fr 1fr 2fr 2fr !important;
   }
-  .grid.md-fr-2-1-2-3, .md-fr-2-1-2-3 .grid {
+  .grid.tablet-fr-2-1-2-3, .tablet-fr-2-1-2-3 .grid {
     grid-template-columns: 2fr 1fr 2fr 3fr !important;
   }
-  .grid.md-fr-2-1-2-4, .md-fr-2-1-2-4 .grid {
+  .grid.tablet-fr-2-1-2-4, .tablet-fr-2-1-2-4 .grid {
     grid-template-columns: 2fr 1fr 2fr 4fr !important;
   }
-  .grid.md-fr-2-1-3, .md-fr-2-1-3 .grid {
+  .grid.tablet-fr-2-1-3, .tablet-fr-2-1-3 .grid {
     grid-template-columns: 2fr 1fr 3fr !important;
   }
-  .grid.md-fr-2-1-3-1, .md-fr-2-1-3-1 .grid {
+  .grid.tablet-fr-2-1-3-1, .tablet-fr-2-1-3-1 .grid {
     grid-template-columns: 2fr 1fr 3fr 1fr !important;
   }
-  .grid.md-fr-2-1-3-2, .md-fr-2-1-3-2 .grid {
+  .grid.tablet-fr-2-1-3-2, .tablet-fr-2-1-3-2 .grid {
     grid-template-columns: 2fr 1fr 3fr 2fr !important;
   }
-  .grid.md-fr-2-1-3-3, .md-fr-2-1-3-3 .grid {
+  .grid.tablet-fr-2-1-3-3, .tablet-fr-2-1-3-3 .grid {
     grid-template-columns: 2fr 1fr 3fr 3fr !important;
   }
-  .grid.md-fr-2-1-3-4, .md-fr-2-1-3-4 .grid {
+  .grid.tablet-fr-2-1-3-4, .tablet-fr-2-1-3-4 .grid {
     grid-template-columns: 2fr 1fr 3fr 4fr !important;
   }
-  .grid.md-fr-2-1-4, .md-fr-2-1-4 .grid {
+  .grid.tablet-fr-2-1-4, .tablet-fr-2-1-4 .grid {
     grid-template-columns: 2fr 1fr 4fr !important;
   }
-  .grid.md-fr-2-1-4-1, .md-fr-2-1-4-1 .grid {
+  .grid.tablet-fr-2-1-4-1, .tablet-fr-2-1-4-1 .grid {
     grid-template-columns: 2fr 1fr 4fr 1fr !important;
   }
-  .grid.md-fr-2-1-4-2, .md-fr-2-1-4-2 .grid {
+  .grid.tablet-fr-2-1-4-2, .tablet-fr-2-1-4-2 .grid {
     grid-template-columns: 2fr 1fr 4fr 2fr !important;
   }
-  .grid.md-fr-2-1-4-3, .md-fr-2-1-4-3 .grid {
+  .grid.tablet-fr-2-1-4-3, .tablet-fr-2-1-4-3 .grid {
     grid-template-columns: 2fr 1fr 4fr 3fr !important;
   }
-  .grid.md-fr-2-1-4-4, .md-fr-2-1-4-4 .grid {
+  .grid.tablet-fr-2-1-4-4, .tablet-fr-2-1-4-4 .grid {
     grid-template-columns: 2fr 1fr 4fr 4fr !important;
   }
-  .grid.md-fr-2-2, .md-fr-2-2 .grid {
+  .grid.tablet-fr-2-2, .tablet-fr-2-2 .grid {
     grid-template-columns: 2fr 2fr !important;
   }
-  .grid.md-fr-2-2-1, .md-fr-2-2-1 .grid {
+  .grid.tablet-fr-2-2-1, .tablet-fr-2-2-1 .grid {
     grid-template-columns: 2fr 2fr 1fr !important;
   }
-  .grid.md-fr-2-2-1-1, .md-fr-2-2-1-1 .grid {
+  .grid.tablet-fr-2-2-1-1, .tablet-fr-2-2-1-1 .grid {
     grid-template-columns: 2fr 2fr 1fr 1fr !important;
   }
-  .grid.md-fr-2-2-1-2, .md-fr-2-2-1-2 .grid {
+  .grid.tablet-fr-2-2-1-2, .tablet-fr-2-2-1-2 .grid {
     grid-template-columns: 2fr 2fr 1fr 2fr !important;
   }
-  .grid.md-fr-2-2-1-3, .md-fr-2-2-1-3 .grid {
+  .grid.tablet-fr-2-2-1-3, .tablet-fr-2-2-1-3 .grid {
     grid-template-columns: 2fr 2fr 1fr 3fr !important;
   }
-  .grid.md-fr-2-2-1-4, .md-fr-2-2-1-4 .grid {
+  .grid.tablet-fr-2-2-1-4, .tablet-fr-2-2-1-4 .grid {
     grid-template-columns: 2fr 2fr 1fr 4fr !important;
   }
-  .grid.md-fr-2-2-2, .md-fr-2-2-2 .grid {
+  .grid.tablet-fr-2-2-2, .tablet-fr-2-2-2 .grid {
     grid-template-columns: 2fr 2fr 2fr !important;
   }
-  .grid.md-fr-2-2-2-1, .md-fr-2-2-2-1 .grid {
+  .grid.tablet-fr-2-2-2-1, .tablet-fr-2-2-2-1 .grid {
     grid-template-columns: 2fr 2fr 2fr 1fr !important;
   }
-  .grid.md-fr-2-2-2-2, .md-fr-2-2-2-2 .grid {
+  .grid.tablet-fr-2-2-2-2, .tablet-fr-2-2-2-2 .grid {
     grid-template-columns: 2fr 2fr 2fr 2fr !important;
   }
-  .grid.md-fr-2-2-2-3, .md-fr-2-2-2-3 .grid {
+  .grid.tablet-fr-2-2-2-3, .tablet-fr-2-2-2-3 .grid {
     grid-template-columns: 2fr 2fr 2fr 3fr !important;
   }
-  .grid.md-fr-2-2-2-4, .md-fr-2-2-2-4 .grid {
+  .grid.tablet-fr-2-2-2-4, .tablet-fr-2-2-2-4 .grid {
     grid-template-columns: 2fr 2fr 2fr 4fr !important;
   }
-  .grid.md-fr-2-2-3, .md-fr-2-2-3 .grid {
+  .grid.tablet-fr-2-2-3, .tablet-fr-2-2-3 .grid {
     grid-template-columns: 2fr 2fr 3fr !important;
   }
-  .grid.md-fr-2-2-3-1, .md-fr-2-2-3-1 .grid {
+  .grid.tablet-fr-2-2-3-1, .tablet-fr-2-2-3-1 .grid {
     grid-template-columns: 2fr 2fr 3fr 1fr !important;
   }
-  .grid.md-fr-2-2-3-2, .md-fr-2-2-3-2 .grid {
+  .grid.tablet-fr-2-2-3-2, .tablet-fr-2-2-3-2 .grid {
     grid-template-columns: 2fr 2fr 3fr 2fr !important;
   }
-  .grid.md-fr-2-2-3-3, .md-fr-2-2-3-3 .grid {
+  .grid.tablet-fr-2-2-3-3, .tablet-fr-2-2-3-3 .grid {
     grid-template-columns: 2fr 2fr 3fr 3fr !important;
   }
-  .grid.md-fr-2-2-3-4, .md-fr-2-2-3-4 .grid {
+  .grid.tablet-fr-2-2-3-4, .tablet-fr-2-2-3-4 .grid {
     grid-template-columns: 2fr 2fr 3fr 4fr !important;
   }
-  .grid.md-fr-2-2-4, .md-fr-2-2-4 .grid {
+  .grid.tablet-fr-2-2-4, .tablet-fr-2-2-4 .grid {
     grid-template-columns: 2fr 2fr 4fr !important;
   }
-  .grid.md-fr-2-2-4-1, .md-fr-2-2-4-1 .grid {
+  .grid.tablet-fr-2-2-4-1, .tablet-fr-2-2-4-1 .grid {
     grid-template-columns: 2fr 2fr 4fr 1fr !important;
   }
-  .grid.md-fr-2-2-4-2, .md-fr-2-2-4-2 .grid {
+  .grid.tablet-fr-2-2-4-2, .tablet-fr-2-2-4-2 .grid {
     grid-template-columns: 2fr 2fr 4fr 2fr !important;
   }
-  .grid.md-fr-2-2-4-3, .md-fr-2-2-4-3 .grid {
+  .grid.tablet-fr-2-2-4-3, .tablet-fr-2-2-4-3 .grid {
     grid-template-columns: 2fr 2fr 4fr 3fr !important;
   }
-  .grid.md-fr-2-2-4-4, .md-fr-2-2-4-4 .grid {
+  .grid.tablet-fr-2-2-4-4, .tablet-fr-2-2-4-4 .grid {
     grid-template-columns: 2fr 2fr 4fr 4fr !important;
   }
-  .grid.md-fr-2-3, .md-fr-2-3 .grid {
+  .grid.tablet-fr-2-3, .tablet-fr-2-3 .grid {
     grid-template-columns: 2fr 3fr !important;
   }
-  .grid.md-fr-2-3-1, .md-fr-2-3-1 .grid {
+  .grid.tablet-fr-2-3-1, .tablet-fr-2-3-1 .grid {
     grid-template-columns: 2fr 3fr 1fr !important;
   }
-  .grid.md-fr-2-3-1-1, .md-fr-2-3-1-1 .grid {
+  .grid.tablet-fr-2-3-1-1, .tablet-fr-2-3-1-1 .grid {
     grid-template-columns: 2fr 3fr 1fr 1fr !important;
   }
-  .grid.md-fr-2-3-1-2, .md-fr-2-3-1-2 .grid {
+  .grid.tablet-fr-2-3-1-2, .tablet-fr-2-3-1-2 .grid {
     grid-template-columns: 2fr 3fr 1fr 2fr !important;
   }
-  .grid.md-fr-2-3-1-3, .md-fr-2-3-1-3 .grid {
+  .grid.tablet-fr-2-3-1-3, .tablet-fr-2-3-1-3 .grid {
     grid-template-columns: 2fr 3fr 1fr 3fr !important;
   }
-  .grid.md-fr-2-3-1-4, .md-fr-2-3-1-4 .grid {
+  .grid.tablet-fr-2-3-1-4, .tablet-fr-2-3-1-4 .grid {
     grid-template-columns: 2fr 3fr 1fr 4fr !important;
   }
-  .grid.md-fr-2-3-2, .md-fr-2-3-2 .grid {
+  .grid.tablet-fr-2-3-2, .tablet-fr-2-3-2 .grid {
     grid-template-columns: 2fr 3fr 2fr !important;
   }
-  .grid.md-fr-2-3-2-1, .md-fr-2-3-2-1 .grid {
+  .grid.tablet-fr-2-3-2-1, .tablet-fr-2-3-2-1 .grid {
     grid-template-columns: 2fr 3fr 2fr 1fr !important;
   }
-  .grid.md-fr-2-3-2-2, .md-fr-2-3-2-2 .grid {
+  .grid.tablet-fr-2-3-2-2, .tablet-fr-2-3-2-2 .grid {
     grid-template-columns: 2fr 3fr 2fr 2fr !important;
   }
-  .grid.md-fr-2-3-2-3, .md-fr-2-3-2-3 .grid {
+  .grid.tablet-fr-2-3-2-3, .tablet-fr-2-3-2-3 .grid {
     grid-template-columns: 2fr 3fr 2fr 3fr !important;
   }
-  .grid.md-fr-2-3-2-4, .md-fr-2-3-2-4 .grid {
+  .grid.tablet-fr-2-3-2-4, .tablet-fr-2-3-2-4 .grid {
     grid-template-columns: 2fr 3fr 2fr 4fr !important;
   }
-  .grid.md-fr-2-3-3, .md-fr-2-3-3 .grid {
+  .grid.tablet-fr-2-3-3, .tablet-fr-2-3-3 .grid {
     grid-template-columns: 2fr 3fr 3fr !important;
   }
-  .grid.md-fr-2-3-3-1, .md-fr-2-3-3-1 .grid {
+  .grid.tablet-fr-2-3-3-1, .tablet-fr-2-3-3-1 .grid {
     grid-template-columns: 2fr 3fr 3fr 1fr !important;
   }
-  .grid.md-fr-2-3-3-2, .md-fr-2-3-3-2 .grid {
+  .grid.tablet-fr-2-3-3-2, .tablet-fr-2-3-3-2 .grid {
     grid-template-columns: 2fr 3fr 3fr 2fr !important;
   }
-  .grid.md-fr-2-3-3-3, .md-fr-2-3-3-3 .grid {
+  .grid.tablet-fr-2-3-3-3, .tablet-fr-2-3-3-3 .grid {
     grid-template-columns: 2fr 3fr 3fr 3fr !important;
   }
-  .grid.md-fr-2-3-3-4, .md-fr-2-3-3-4 .grid {
+  .grid.tablet-fr-2-3-3-4, .tablet-fr-2-3-3-4 .grid {
     grid-template-columns: 2fr 3fr 3fr 4fr !important;
   }
-  .grid.md-fr-2-3-4, .md-fr-2-3-4 .grid {
+  .grid.tablet-fr-2-3-4, .tablet-fr-2-3-4 .grid {
     grid-template-columns: 2fr 3fr 4fr !important;
   }
-  .grid.md-fr-2-3-4-1, .md-fr-2-3-4-1 .grid {
+  .grid.tablet-fr-2-3-4-1, .tablet-fr-2-3-4-1 .grid {
     grid-template-columns: 2fr 3fr 4fr 1fr !important;
   }
-  .grid.md-fr-2-3-4-2, .md-fr-2-3-4-2 .grid {
+  .grid.tablet-fr-2-3-4-2, .tablet-fr-2-3-4-2 .grid {
     grid-template-columns: 2fr 3fr 4fr 2fr !important;
   }
-  .grid.md-fr-2-3-4-3, .md-fr-2-3-4-3 .grid {
+  .grid.tablet-fr-2-3-4-3, .tablet-fr-2-3-4-3 .grid {
     grid-template-columns: 2fr 3fr 4fr 3fr !important;
   }
-  .grid.md-fr-2-3-4-4, .md-fr-2-3-4-4 .grid {
+  .grid.tablet-fr-2-3-4-4, .tablet-fr-2-3-4-4 .grid {
     grid-template-columns: 2fr 3fr 4fr 4fr !important;
   }
-  .grid.md-fr-2-4, .md-fr-2-4 .grid {
+  .grid.tablet-fr-2-4, .tablet-fr-2-4 .grid {
     grid-template-columns: 2fr 4fr !important;
   }
-  .grid.md-fr-2-4-1, .md-fr-2-4-1 .grid {
+  .grid.tablet-fr-2-4-1, .tablet-fr-2-4-1 .grid {
     grid-template-columns: 2fr 4fr 1fr !important;
   }
-  .grid.md-fr-2-4-1-1, .md-fr-2-4-1-1 .grid {
+  .grid.tablet-fr-2-4-1-1, .tablet-fr-2-4-1-1 .grid {
     grid-template-columns: 2fr 4fr 1fr 1fr !important;
   }
-  .grid.md-fr-2-4-1-2, .md-fr-2-4-1-2 .grid {
+  .grid.tablet-fr-2-4-1-2, .tablet-fr-2-4-1-2 .grid {
     grid-template-columns: 2fr 4fr 1fr 2fr !important;
   }
-  .grid.md-fr-2-4-1-3, .md-fr-2-4-1-3 .grid {
+  .grid.tablet-fr-2-4-1-3, .tablet-fr-2-4-1-3 .grid {
     grid-template-columns: 2fr 4fr 1fr 3fr !important;
   }
-  .grid.md-fr-2-4-1-4, .md-fr-2-4-1-4 .grid {
+  .grid.tablet-fr-2-4-1-4, .tablet-fr-2-4-1-4 .grid {
     grid-template-columns: 2fr 4fr 1fr 4fr !important;
   }
-  .grid.md-fr-2-4-2, .md-fr-2-4-2 .grid {
+  .grid.tablet-fr-2-4-2, .tablet-fr-2-4-2 .grid {
     grid-template-columns: 2fr 4fr 2fr !important;
   }
-  .grid.md-fr-2-4-2-1, .md-fr-2-4-2-1 .grid {
+  .grid.tablet-fr-2-4-2-1, .tablet-fr-2-4-2-1 .grid {
     grid-template-columns: 2fr 4fr 2fr 1fr !important;
   }
-  .grid.md-fr-2-4-2-2, .md-fr-2-4-2-2 .grid {
+  .grid.tablet-fr-2-4-2-2, .tablet-fr-2-4-2-2 .grid {
     grid-template-columns: 2fr 4fr 2fr 2fr !important;
   }
-  .grid.md-fr-2-4-2-3, .md-fr-2-4-2-3 .grid {
+  .grid.tablet-fr-2-4-2-3, .tablet-fr-2-4-2-3 .grid {
     grid-template-columns: 2fr 4fr 2fr 3fr !important;
   }
-  .grid.md-fr-2-4-2-4, .md-fr-2-4-2-4 .grid {
+  .grid.tablet-fr-2-4-2-4, .tablet-fr-2-4-2-4 .grid {
     grid-template-columns: 2fr 4fr 2fr 4fr !important;
   }
-  .grid.md-fr-2-4-3, .md-fr-2-4-3 .grid {
+  .grid.tablet-fr-2-4-3, .tablet-fr-2-4-3 .grid {
     grid-template-columns: 2fr 4fr 3fr !important;
   }
-  .grid.md-fr-2-4-3-1, .md-fr-2-4-3-1 .grid {
+  .grid.tablet-fr-2-4-3-1, .tablet-fr-2-4-3-1 .grid {
     grid-template-columns: 2fr 4fr 3fr 1fr !important;
   }
-  .grid.md-fr-2-4-3-2, .md-fr-2-4-3-2 .grid {
+  .grid.tablet-fr-2-4-3-2, .tablet-fr-2-4-3-2 .grid {
     grid-template-columns: 2fr 4fr 3fr 2fr !important;
   }
-  .grid.md-fr-2-4-3-3, .md-fr-2-4-3-3 .grid {
+  .grid.tablet-fr-2-4-3-3, .tablet-fr-2-4-3-3 .grid {
     grid-template-columns: 2fr 4fr 3fr 3fr !important;
   }
-  .grid.md-fr-2-4-3-4, .md-fr-2-4-3-4 .grid {
+  .grid.tablet-fr-2-4-3-4, .tablet-fr-2-4-3-4 .grid {
     grid-template-columns: 2fr 4fr 3fr 4fr !important;
   }
-  .grid.md-fr-2-4-4, .md-fr-2-4-4 .grid {
+  .grid.tablet-fr-2-4-4, .tablet-fr-2-4-4 .grid {
     grid-template-columns: 2fr 4fr 4fr !important;
   }
-  .grid.md-fr-2-4-4-1, .md-fr-2-4-4-1 .grid {
+  .grid.tablet-fr-2-4-4-1, .tablet-fr-2-4-4-1 .grid {
     grid-template-columns: 2fr 4fr 4fr 1fr !important;
   }
-  .grid.md-fr-2-4-4-2, .md-fr-2-4-4-2 .grid {
+  .grid.tablet-fr-2-4-4-2, .tablet-fr-2-4-4-2 .grid {
     grid-template-columns: 2fr 4fr 4fr 2fr !important;
   }
-  .grid.md-fr-2-4-4-3, .md-fr-2-4-4-3 .grid {
+  .grid.tablet-fr-2-4-4-3, .tablet-fr-2-4-4-3 .grid {
     grid-template-columns: 2fr 4fr 4fr 3fr !important;
   }
-  .grid.md-fr-2-4-4-4, .md-fr-2-4-4-4 .grid {
+  .grid.tablet-fr-2-4-4-4, .tablet-fr-2-4-4-4 .grid {
     grid-template-columns: 2fr 4fr 4fr 4fr !important;
   }
-  .grid.md-fr-3, .md-fr-3 .grid {
+  .grid.tablet-fr-3, .tablet-fr-3 .grid {
     grid-template-columns: 3fr !important;
   }
-  .grid.md-fr-3-1, .md-fr-3-1 .grid {
+  .grid.tablet-fr-3-1, .tablet-fr-3-1 .grid {
     grid-template-columns: 3fr 1fr !important;
   }
-  .grid.md-fr-3-1-1, .md-fr-3-1-1 .grid {
+  .grid.tablet-fr-3-1-1, .tablet-fr-3-1-1 .grid {
     grid-template-columns: 3fr 1fr 1fr !important;
   }
-  .grid.md-fr-3-1-1-1, .md-fr-3-1-1-1 .grid {
+  .grid.tablet-fr-3-1-1-1, .tablet-fr-3-1-1-1 .grid {
     grid-template-columns: 3fr 1fr 1fr 1fr !important;
   }
-  .grid.md-fr-3-1-1-2, .md-fr-3-1-1-2 .grid {
+  .grid.tablet-fr-3-1-1-2, .tablet-fr-3-1-1-2 .grid {
     grid-template-columns: 3fr 1fr 1fr 2fr !important;
   }
-  .grid.md-fr-3-1-1-3, .md-fr-3-1-1-3 .grid {
+  .grid.tablet-fr-3-1-1-3, .tablet-fr-3-1-1-3 .grid {
     grid-template-columns: 3fr 1fr 1fr 3fr !important;
   }
-  .grid.md-fr-3-1-1-4, .md-fr-3-1-1-4 .grid {
+  .grid.tablet-fr-3-1-1-4, .tablet-fr-3-1-1-4 .grid {
     grid-template-columns: 3fr 1fr 1fr 4fr !important;
   }
-  .grid.md-fr-3-1-2, .md-fr-3-1-2 .grid {
+  .grid.tablet-fr-3-1-2, .tablet-fr-3-1-2 .grid {
     grid-template-columns: 3fr 1fr 2fr !important;
   }
-  .grid.md-fr-3-1-2-1, .md-fr-3-1-2-1 .grid {
+  .grid.tablet-fr-3-1-2-1, .tablet-fr-3-1-2-1 .grid {
     grid-template-columns: 3fr 1fr 2fr 1fr !important;
   }
-  .grid.md-fr-3-1-2-2, .md-fr-3-1-2-2 .grid {
+  .grid.tablet-fr-3-1-2-2, .tablet-fr-3-1-2-2 .grid {
     grid-template-columns: 3fr 1fr 2fr 2fr !important;
   }
-  .grid.md-fr-3-1-2-3, .md-fr-3-1-2-3 .grid {
+  .grid.tablet-fr-3-1-2-3, .tablet-fr-3-1-2-3 .grid {
     grid-template-columns: 3fr 1fr 2fr 3fr !important;
   }
-  .grid.md-fr-3-1-2-4, .md-fr-3-1-2-4 .grid {
+  .grid.tablet-fr-3-1-2-4, .tablet-fr-3-1-2-4 .grid {
     grid-template-columns: 3fr 1fr 2fr 4fr !important;
   }
-  .grid.md-fr-3-1-3, .md-fr-3-1-3 .grid {
+  .grid.tablet-fr-3-1-3, .tablet-fr-3-1-3 .grid {
     grid-template-columns: 3fr 1fr 3fr !important;
   }
-  .grid.md-fr-3-1-3-1, .md-fr-3-1-3-1 .grid {
+  .grid.tablet-fr-3-1-3-1, .tablet-fr-3-1-3-1 .grid {
     grid-template-columns: 3fr 1fr 3fr 1fr !important;
   }
-  .grid.md-fr-3-1-3-2, .md-fr-3-1-3-2 .grid {
+  .grid.tablet-fr-3-1-3-2, .tablet-fr-3-1-3-2 .grid {
     grid-template-columns: 3fr 1fr 3fr 2fr !important;
   }
-  .grid.md-fr-3-1-3-3, .md-fr-3-1-3-3 .grid {
+  .grid.tablet-fr-3-1-3-3, .tablet-fr-3-1-3-3 .grid {
     grid-template-columns: 3fr 1fr 3fr 3fr !important;
   }
-  .grid.md-fr-3-1-3-4, .md-fr-3-1-3-4 .grid {
+  .grid.tablet-fr-3-1-3-4, .tablet-fr-3-1-3-4 .grid {
     grid-template-columns: 3fr 1fr 3fr 4fr !important;
   }
-  .grid.md-fr-3-1-4, .md-fr-3-1-4 .grid {
+  .grid.tablet-fr-3-1-4, .tablet-fr-3-1-4 .grid {
     grid-template-columns: 3fr 1fr 4fr !important;
   }
-  .grid.md-fr-3-1-4-1, .md-fr-3-1-4-1 .grid {
+  .grid.tablet-fr-3-1-4-1, .tablet-fr-3-1-4-1 .grid {
     grid-template-columns: 3fr 1fr 4fr 1fr !important;
   }
-  .grid.md-fr-3-1-4-2, .md-fr-3-1-4-2 .grid {
+  .grid.tablet-fr-3-1-4-2, .tablet-fr-3-1-4-2 .grid {
     grid-template-columns: 3fr 1fr 4fr 2fr !important;
   }
-  .grid.md-fr-3-1-4-3, .md-fr-3-1-4-3 .grid {
+  .grid.tablet-fr-3-1-4-3, .tablet-fr-3-1-4-3 .grid {
     grid-template-columns: 3fr 1fr 4fr 3fr !important;
   }
-  .grid.md-fr-3-1-4-4, .md-fr-3-1-4-4 .grid {
+  .grid.tablet-fr-3-1-4-4, .tablet-fr-3-1-4-4 .grid {
     grid-template-columns: 3fr 1fr 4fr 4fr !important;
   }
-  .grid.md-fr-3-2, .md-fr-3-2 .grid {
+  .grid.tablet-fr-3-2, .tablet-fr-3-2 .grid {
     grid-template-columns: 3fr 2fr !important;
   }
-  .grid.md-fr-3-2-1, .md-fr-3-2-1 .grid {
+  .grid.tablet-fr-3-2-1, .tablet-fr-3-2-1 .grid {
     grid-template-columns: 3fr 2fr 1fr !important;
   }
-  .grid.md-fr-3-2-1-1, .md-fr-3-2-1-1 .grid {
+  .grid.tablet-fr-3-2-1-1, .tablet-fr-3-2-1-1 .grid {
     grid-template-columns: 3fr 2fr 1fr 1fr !important;
   }
-  .grid.md-fr-3-2-1-2, .md-fr-3-2-1-2 .grid {
+  .grid.tablet-fr-3-2-1-2, .tablet-fr-3-2-1-2 .grid {
     grid-template-columns: 3fr 2fr 1fr 2fr !important;
   }
-  .grid.md-fr-3-2-1-3, .md-fr-3-2-1-3 .grid {
+  .grid.tablet-fr-3-2-1-3, .tablet-fr-3-2-1-3 .grid {
     grid-template-columns: 3fr 2fr 1fr 3fr !important;
   }
-  .grid.md-fr-3-2-1-4, .md-fr-3-2-1-4 .grid {
+  .grid.tablet-fr-3-2-1-4, .tablet-fr-3-2-1-4 .grid {
     grid-template-columns: 3fr 2fr 1fr 4fr !important;
   }
-  .grid.md-fr-3-2-2, .md-fr-3-2-2 .grid {
+  .grid.tablet-fr-3-2-2, .tablet-fr-3-2-2 .grid {
     grid-template-columns: 3fr 2fr 2fr !important;
   }
-  .grid.md-fr-3-2-2-1, .md-fr-3-2-2-1 .grid {
+  .grid.tablet-fr-3-2-2-1, .tablet-fr-3-2-2-1 .grid {
     grid-template-columns: 3fr 2fr 2fr 1fr !important;
   }
-  .grid.md-fr-3-2-2-2, .md-fr-3-2-2-2 .grid {
+  .grid.tablet-fr-3-2-2-2, .tablet-fr-3-2-2-2 .grid {
     grid-template-columns: 3fr 2fr 2fr 2fr !important;
   }
-  .grid.md-fr-3-2-2-3, .md-fr-3-2-2-3 .grid {
+  .grid.tablet-fr-3-2-2-3, .tablet-fr-3-2-2-3 .grid {
     grid-template-columns: 3fr 2fr 2fr 3fr !important;
   }
-  .grid.md-fr-3-2-2-4, .md-fr-3-2-2-4 .grid {
+  .grid.tablet-fr-3-2-2-4, .tablet-fr-3-2-2-4 .grid {
     grid-template-columns: 3fr 2fr 2fr 4fr !important;
   }
-  .grid.md-fr-3-2-3, .md-fr-3-2-3 .grid {
+  .grid.tablet-fr-3-2-3, .tablet-fr-3-2-3 .grid {
     grid-template-columns: 3fr 2fr 3fr !important;
   }
-  .grid.md-fr-3-2-3-1, .md-fr-3-2-3-1 .grid {
+  .grid.tablet-fr-3-2-3-1, .tablet-fr-3-2-3-1 .grid {
     grid-template-columns: 3fr 2fr 3fr 1fr !important;
   }
-  .grid.md-fr-3-2-3-2, .md-fr-3-2-3-2 .grid {
+  .grid.tablet-fr-3-2-3-2, .tablet-fr-3-2-3-2 .grid {
     grid-template-columns: 3fr 2fr 3fr 2fr !important;
   }
-  .grid.md-fr-3-2-3-3, .md-fr-3-2-3-3 .grid {
+  .grid.tablet-fr-3-2-3-3, .tablet-fr-3-2-3-3 .grid {
     grid-template-columns: 3fr 2fr 3fr 3fr !important;
   }
-  .grid.md-fr-3-2-3-4, .md-fr-3-2-3-4 .grid {
+  .grid.tablet-fr-3-2-3-4, .tablet-fr-3-2-3-4 .grid {
     grid-template-columns: 3fr 2fr 3fr 4fr !important;
   }
-  .grid.md-fr-3-2-4, .md-fr-3-2-4 .grid {
+  .grid.tablet-fr-3-2-4, .tablet-fr-3-2-4 .grid {
     grid-template-columns: 3fr 2fr 4fr !important;
   }
-  .grid.md-fr-3-2-4-1, .md-fr-3-2-4-1 .grid {
+  .grid.tablet-fr-3-2-4-1, .tablet-fr-3-2-4-1 .grid {
     grid-template-columns: 3fr 2fr 4fr 1fr !important;
   }
-  .grid.md-fr-3-2-4-2, .md-fr-3-2-4-2 .grid {
+  .grid.tablet-fr-3-2-4-2, .tablet-fr-3-2-4-2 .grid {
     grid-template-columns: 3fr 2fr 4fr 2fr !important;
   }
-  .grid.md-fr-3-2-4-3, .md-fr-3-2-4-3 .grid {
+  .grid.tablet-fr-3-2-4-3, .tablet-fr-3-2-4-3 .grid {
     grid-template-columns: 3fr 2fr 4fr 3fr !important;
   }
-  .grid.md-fr-3-2-4-4, .md-fr-3-2-4-4 .grid {
+  .grid.tablet-fr-3-2-4-4, .tablet-fr-3-2-4-4 .grid {
     grid-template-columns: 3fr 2fr 4fr 4fr !important;
   }
-  .grid.md-fr-3-3, .md-fr-3-3 .grid {
+  .grid.tablet-fr-3-3, .tablet-fr-3-3 .grid {
     grid-template-columns: 3fr 3fr !important;
   }
-  .grid.md-fr-3-3-1, .md-fr-3-3-1 .grid {
+  .grid.tablet-fr-3-3-1, .tablet-fr-3-3-1 .grid {
     grid-template-columns: 3fr 3fr 1fr !important;
   }
-  .grid.md-fr-3-3-1-1, .md-fr-3-3-1-1 .grid {
+  .grid.tablet-fr-3-3-1-1, .tablet-fr-3-3-1-1 .grid {
     grid-template-columns: 3fr 3fr 1fr 1fr !important;
   }
-  .grid.md-fr-3-3-1-2, .md-fr-3-3-1-2 .grid {
+  .grid.tablet-fr-3-3-1-2, .tablet-fr-3-3-1-2 .grid {
     grid-template-columns: 3fr 3fr 1fr 2fr !important;
   }
-  .grid.md-fr-3-3-1-3, .md-fr-3-3-1-3 .grid {
+  .grid.tablet-fr-3-3-1-3, .tablet-fr-3-3-1-3 .grid {
     grid-template-columns: 3fr 3fr 1fr 3fr !important;
   }
-  .grid.md-fr-3-3-1-4, .md-fr-3-3-1-4 .grid {
+  .grid.tablet-fr-3-3-1-4, .tablet-fr-3-3-1-4 .grid {
     grid-template-columns: 3fr 3fr 1fr 4fr !important;
   }
-  .grid.md-fr-3-3-2, .md-fr-3-3-2 .grid {
+  .grid.tablet-fr-3-3-2, .tablet-fr-3-3-2 .grid {
     grid-template-columns: 3fr 3fr 2fr !important;
   }
-  .grid.md-fr-3-3-2-1, .md-fr-3-3-2-1 .grid {
+  .grid.tablet-fr-3-3-2-1, .tablet-fr-3-3-2-1 .grid {
     grid-template-columns: 3fr 3fr 2fr 1fr !important;
   }
-  .grid.md-fr-3-3-2-2, .md-fr-3-3-2-2 .grid {
+  .grid.tablet-fr-3-3-2-2, .tablet-fr-3-3-2-2 .grid {
     grid-template-columns: 3fr 3fr 2fr 2fr !important;
   }
-  .grid.md-fr-3-3-2-3, .md-fr-3-3-2-3 .grid {
+  .grid.tablet-fr-3-3-2-3, .tablet-fr-3-3-2-3 .grid {
     grid-template-columns: 3fr 3fr 2fr 3fr !important;
   }
-  .grid.md-fr-3-3-2-4, .md-fr-3-3-2-4 .grid {
+  .grid.tablet-fr-3-3-2-4, .tablet-fr-3-3-2-4 .grid {
     grid-template-columns: 3fr 3fr 2fr 4fr !important;
   }
-  .grid.md-fr-3-3-3, .md-fr-3-3-3 .grid {
+  .grid.tablet-fr-3-3-3, .tablet-fr-3-3-3 .grid {
     grid-template-columns: 3fr 3fr 3fr !important;
   }
-  .grid.md-fr-3-3-3-1, .md-fr-3-3-3-1 .grid {
+  .grid.tablet-fr-3-3-3-1, .tablet-fr-3-3-3-1 .grid {
     grid-template-columns: 3fr 3fr 3fr 1fr !important;
   }
-  .grid.md-fr-3-3-3-2, .md-fr-3-3-3-2 .grid {
+  .grid.tablet-fr-3-3-3-2, .tablet-fr-3-3-3-2 .grid {
     grid-template-columns: 3fr 3fr 3fr 2fr !important;
   }
-  .grid.md-fr-3-3-3-3, .md-fr-3-3-3-3 .grid {
+  .grid.tablet-fr-3-3-3-3, .tablet-fr-3-3-3-3 .grid {
     grid-template-columns: 3fr 3fr 3fr 3fr !important;
   }
-  .grid.md-fr-3-3-3-4, .md-fr-3-3-3-4 .grid {
+  .grid.tablet-fr-3-3-3-4, .tablet-fr-3-3-3-4 .grid {
     grid-template-columns: 3fr 3fr 3fr 4fr !important;
   }
-  .grid.md-fr-3-3-4, .md-fr-3-3-4 .grid {
+  .grid.tablet-fr-3-3-4, .tablet-fr-3-3-4 .grid {
     grid-template-columns: 3fr 3fr 4fr !important;
   }
-  .grid.md-fr-3-3-4-1, .md-fr-3-3-4-1 .grid {
+  .grid.tablet-fr-3-3-4-1, .tablet-fr-3-3-4-1 .grid {
     grid-template-columns: 3fr 3fr 4fr 1fr !important;
   }
-  .grid.md-fr-3-3-4-2, .md-fr-3-3-4-2 .grid {
+  .grid.tablet-fr-3-3-4-2, .tablet-fr-3-3-4-2 .grid {
     grid-template-columns: 3fr 3fr 4fr 2fr !important;
   }
-  .grid.md-fr-3-3-4-3, .md-fr-3-3-4-3 .grid {
+  .grid.tablet-fr-3-3-4-3, .tablet-fr-3-3-4-3 .grid {
     grid-template-columns: 3fr 3fr 4fr 3fr !important;
   }
-  .grid.md-fr-3-3-4-4, .md-fr-3-3-4-4 .grid {
+  .grid.tablet-fr-3-3-4-4, .tablet-fr-3-3-4-4 .grid {
     grid-template-columns: 3fr 3fr 4fr 4fr !important;
   }
-  .grid.md-fr-3-4, .md-fr-3-4 .grid {
+  .grid.tablet-fr-3-4, .tablet-fr-3-4 .grid {
     grid-template-columns: 3fr 4fr !important;
   }
-  .grid.md-fr-3-4-1, .md-fr-3-4-1 .grid {
+  .grid.tablet-fr-3-4-1, .tablet-fr-3-4-1 .grid {
     grid-template-columns: 3fr 4fr 1fr !important;
   }
-  .grid.md-fr-3-4-1-1, .md-fr-3-4-1-1 .grid {
+  .grid.tablet-fr-3-4-1-1, .tablet-fr-3-4-1-1 .grid {
     grid-template-columns: 3fr 4fr 1fr 1fr !important;
   }
-  .grid.md-fr-3-4-1-2, .md-fr-3-4-1-2 .grid {
+  .grid.tablet-fr-3-4-1-2, .tablet-fr-3-4-1-2 .grid {
     grid-template-columns: 3fr 4fr 1fr 2fr !important;
   }
-  .grid.md-fr-3-4-1-3, .md-fr-3-4-1-3 .grid {
+  .grid.tablet-fr-3-4-1-3, .tablet-fr-3-4-1-3 .grid {
     grid-template-columns: 3fr 4fr 1fr 3fr !important;
   }
-  .grid.md-fr-3-4-1-4, .md-fr-3-4-1-4 .grid {
+  .grid.tablet-fr-3-4-1-4, .tablet-fr-3-4-1-4 .grid {
     grid-template-columns: 3fr 4fr 1fr 4fr !important;
   }
-  .grid.md-fr-3-4-2, .md-fr-3-4-2 .grid {
+  .grid.tablet-fr-3-4-2, .tablet-fr-3-4-2 .grid {
     grid-template-columns: 3fr 4fr 2fr !important;
   }
-  .grid.md-fr-3-4-2-1, .md-fr-3-4-2-1 .grid {
+  .grid.tablet-fr-3-4-2-1, .tablet-fr-3-4-2-1 .grid {
     grid-template-columns: 3fr 4fr 2fr 1fr !important;
   }
-  .grid.md-fr-3-4-2-2, .md-fr-3-4-2-2 .grid {
+  .grid.tablet-fr-3-4-2-2, .tablet-fr-3-4-2-2 .grid {
     grid-template-columns: 3fr 4fr 2fr 2fr !important;
   }
-  .grid.md-fr-3-4-2-3, .md-fr-3-4-2-3 .grid {
+  .grid.tablet-fr-3-4-2-3, .tablet-fr-3-4-2-3 .grid {
     grid-template-columns: 3fr 4fr 2fr 3fr !important;
   }
-  .grid.md-fr-3-4-2-4, .md-fr-3-4-2-4 .grid {
+  .grid.tablet-fr-3-4-2-4, .tablet-fr-3-4-2-4 .grid {
     grid-template-columns: 3fr 4fr 2fr 4fr !important;
   }
-  .grid.md-fr-3-4-3, .md-fr-3-4-3 .grid {
+  .grid.tablet-fr-3-4-3, .tablet-fr-3-4-3 .grid {
     grid-template-columns: 3fr 4fr 3fr !important;
   }
-  .grid.md-fr-3-4-3-1, .md-fr-3-4-3-1 .grid {
+  .grid.tablet-fr-3-4-3-1, .tablet-fr-3-4-3-1 .grid {
     grid-template-columns: 3fr 4fr 3fr 1fr !important;
   }
-  .grid.md-fr-3-4-3-2, .md-fr-3-4-3-2 .grid {
+  .grid.tablet-fr-3-4-3-2, .tablet-fr-3-4-3-2 .grid {
     grid-template-columns: 3fr 4fr 3fr 2fr !important;
   }
-  .grid.md-fr-3-4-3-3, .md-fr-3-4-3-3 .grid {
+  .grid.tablet-fr-3-4-3-3, .tablet-fr-3-4-3-3 .grid {
     grid-template-columns: 3fr 4fr 3fr 3fr !important;
   }
-  .grid.md-fr-3-4-3-4, .md-fr-3-4-3-4 .grid {
+  .grid.tablet-fr-3-4-3-4, .tablet-fr-3-4-3-4 .grid {
     grid-template-columns: 3fr 4fr 3fr 4fr !important;
   }
-  .grid.md-fr-3-4-4, .md-fr-3-4-4 .grid {
+  .grid.tablet-fr-3-4-4, .tablet-fr-3-4-4 .grid {
     grid-template-columns: 3fr 4fr 4fr !important;
   }
-  .grid.md-fr-3-4-4-1, .md-fr-3-4-4-1 .grid {
+  .grid.tablet-fr-3-4-4-1, .tablet-fr-3-4-4-1 .grid {
     grid-template-columns: 3fr 4fr 4fr 1fr !important;
   }
-  .grid.md-fr-3-4-4-2, .md-fr-3-4-4-2 .grid {
+  .grid.tablet-fr-3-4-4-2, .tablet-fr-3-4-4-2 .grid {
     grid-template-columns: 3fr 4fr 4fr 2fr !important;
   }
-  .grid.md-fr-3-4-4-3, .md-fr-3-4-4-3 .grid {
+  .grid.tablet-fr-3-4-4-3, .tablet-fr-3-4-4-3 .grid {
     grid-template-columns: 3fr 4fr 4fr 3fr !important;
   }
-  .grid.md-fr-3-4-4-4, .md-fr-3-4-4-4 .grid {
+  .grid.tablet-fr-3-4-4-4, .tablet-fr-3-4-4-4 .grid {
     grid-template-columns: 3fr 4fr 4fr 4fr !important;
   }
-  .grid.md-fr-4, .md-fr-4 .grid {
+  .grid.tablet-fr-4, .tablet-fr-4 .grid {
     grid-template-columns: 4fr !important;
   }
-  .grid.md-fr-4-1, .md-fr-4-1 .grid {
+  .grid.tablet-fr-4-1, .tablet-fr-4-1 .grid {
     grid-template-columns: 4fr 1fr !important;
   }
-  .grid.md-fr-4-1-1, .md-fr-4-1-1 .grid {
+  .grid.tablet-fr-4-1-1, .tablet-fr-4-1-1 .grid {
     grid-template-columns: 4fr 1fr 1fr !important;
   }
-  .grid.md-fr-4-1-1-1, .md-fr-4-1-1-1 .grid {
+  .grid.tablet-fr-4-1-1-1, .tablet-fr-4-1-1-1 .grid {
     grid-template-columns: 4fr 1fr 1fr 1fr !important;
   }
-  .grid.md-fr-4-1-1-2, .md-fr-4-1-1-2 .grid {
+  .grid.tablet-fr-4-1-1-2, .tablet-fr-4-1-1-2 .grid {
     grid-template-columns: 4fr 1fr 1fr 2fr !important;
   }
-  .grid.md-fr-4-1-1-3, .md-fr-4-1-1-3 .grid {
+  .grid.tablet-fr-4-1-1-3, .tablet-fr-4-1-1-3 .grid {
     grid-template-columns: 4fr 1fr 1fr 3fr !important;
   }
-  .grid.md-fr-4-1-1-4, .md-fr-4-1-1-4 .grid {
+  .grid.tablet-fr-4-1-1-4, .tablet-fr-4-1-1-4 .grid {
     grid-template-columns: 4fr 1fr 1fr 4fr !important;
   }
-  .grid.md-fr-4-1-2, .md-fr-4-1-2 .grid {
+  .grid.tablet-fr-4-1-2, .tablet-fr-4-1-2 .grid {
     grid-template-columns: 4fr 1fr 2fr !important;
   }
-  .grid.md-fr-4-1-2-1, .md-fr-4-1-2-1 .grid {
+  .grid.tablet-fr-4-1-2-1, .tablet-fr-4-1-2-1 .grid {
     grid-template-columns: 4fr 1fr 2fr 1fr !important;
   }
-  .grid.md-fr-4-1-2-2, .md-fr-4-1-2-2 .grid {
+  .grid.tablet-fr-4-1-2-2, .tablet-fr-4-1-2-2 .grid {
     grid-template-columns: 4fr 1fr 2fr 2fr !important;
   }
-  .grid.md-fr-4-1-2-3, .md-fr-4-1-2-3 .grid {
+  .grid.tablet-fr-4-1-2-3, .tablet-fr-4-1-2-3 .grid {
     grid-template-columns: 4fr 1fr 2fr 3fr !important;
   }
-  .grid.md-fr-4-1-2-4, .md-fr-4-1-2-4 .grid {
+  .grid.tablet-fr-4-1-2-4, .tablet-fr-4-1-2-4 .grid {
     grid-template-columns: 4fr 1fr 2fr 4fr !important;
   }
-  .grid.md-fr-4-1-3, .md-fr-4-1-3 .grid {
+  .grid.tablet-fr-4-1-3, .tablet-fr-4-1-3 .grid {
     grid-template-columns: 4fr 1fr 3fr !important;
   }
-  .grid.md-fr-4-1-3-1, .md-fr-4-1-3-1 .grid {
+  .grid.tablet-fr-4-1-3-1, .tablet-fr-4-1-3-1 .grid {
     grid-template-columns: 4fr 1fr 3fr 1fr !important;
   }
-  .grid.md-fr-4-1-3-2, .md-fr-4-1-3-2 .grid {
+  .grid.tablet-fr-4-1-3-2, .tablet-fr-4-1-3-2 .grid {
     grid-template-columns: 4fr 1fr 3fr 2fr !important;
   }
-  .grid.md-fr-4-1-3-3, .md-fr-4-1-3-3 .grid {
+  .grid.tablet-fr-4-1-3-3, .tablet-fr-4-1-3-3 .grid {
     grid-template-columns: 4fr 1fr 3fr 3fr !important;
   }
-  .grid.md-fr-4-1-3-4, .md-fr-4-1-3-4 .grid {
+  .grid.tablet-fr-4-1-3-4, .tablet-fr-4-1-3-4 .grid {
     grid-template-columns: 4fr 1fr 3fr 4fr !important;
   }
-  .grid.md-fr-4-1-4, .md-fr-4-1-4 .grid {
+  .grid.tablet-fr-4-1-4, .tablet-fr-4-1-4 .grid {
     grid-template-columns: 4fr 1fr 4fr !important;
   }
-  .grid.md-fr-4-1-4-1, .md-fr-4-1-4-1 .grid {
+  .grid.tablet-fr-4-1-4-1, .tablet-fr-4-1-4-1 .grid {
     grid-template-columns: 4fr 1fr 4fr 1fr !important;
   }
-  .grid.md-fr-4-1-4-2, .md-fr-4-1-4-2 .grid {
+  .grid.tablet-fr-4-1-4-2, .tablet-fr-4-1-4-2 .grid {
     grid-template-columns: 4fr 1fr 4fr 2fr !important;
   }
-  .grid.md-fr-4-1-4-3, .md-fr-4-1-4-3 .grid {
+  .grid.tablet-fr-4-1-4-3, .tablet-fr-4-1-4-3 .grid {
     grid-template-columns: 4fr 1fr 4fr 3fr !important;
   }
-  .grid.md-fr-4-1-4-4, .md-fr-4-1-4-4 .grid {
+  .grid.tablet-fr-4-1-4-4, .tablet-fr-4-1-4-4 .grid {
     grid-template-columns: 4fr 1fr 4fr 4fr !important;
   }
-  .grid.md-fr-4-2, .md-fr-4-2 .grid {
+  .grid.tablet-fr-4-2, .tablet-fr-4-2 .grid {
     grid-template-columns: 4fr 2fr !important;
   }
-  .grid.md-fr-4-2-1, .md-fr-4-2-1 .grid {
+  .grid.tablet-fr-4-2-1, .tablet-fr-4-2-1 .grid {
     grid-template-columns: 4fr 2fr 1fr !important;
   }
-  .grid.md-fr-4-2-1-1, .md-fr-4-2-1-1 .grid {
+  .grid.tablet-fr-4-2-1-1, .tablet-fr-4-2-1-1 .grid {
     grid-template-columns: 4fr 2fr 1fr 1fr !important;
   }
-  .grid.md-fr-4-2-1-2, .md-fr-4-2-1-2 .grid {
+  .grid.tablet-fr-4-2-1-2, .tablet-fr-4-2-1-2 .grid {
     grid-template-columns: 4fr 2fr 1fr 2fr !important;
   }
-  .grid.md-fr-4-2-1-3, .md-fr-4-2-1-3 .grid {
+  .grid.tablet-fr-4-2-1-3, .tablet-fr-4-2-1-3 .grid {
     grid-template-columns: 4fr 2fr 1fr 3fr !important;
   }
-  .grid.md-fr-4-2-1-4, .md-fr-4-2-1-4 .grid {
+  .grid.tablet-fr-4-2-1-4, .tablet-fr-4-2-1-4 .grid {
     grid-template-columns: 4fr 2fr 1fr 4fr !important;
   }
-  .grid.md-fr-4-2-2, .md-fr-4-2-2 .grid {
+  .grid.tablet-fr-4-2-2, .tablet-fr-4-2-2 .grid {
     grid-template-columns: 4fr 2fr 2fr !important;
   }
-  .grid.md-fr-4-2-2-1, .md-fr-4-2-2-1 .grid {
+  .grid.tablet-fr-4-2-2-1, .tablet-fr-4-2-2-1 .grid {
     grid-template-columns: 4fr 2fr 2fr 1fr !important;
   }
-  .grid.md-fr-4-2-2-2, .md-fr-4-2-2-2 .grid {
+  .grid.tablet-fr-4-2-2-2, .tablet-fr-4-2-2-2 .grid {
     grid-template-columns: 4fr 2fr 2fr 2fr !important;
   }
-  .grid.md-fr-4-2-2-3, .md-fr-4-2-2-3 .grid {
+  .grid.tablet-fr-4-2-2-3, .tablet-fr-4-2-2-3 .grid {
     grid-template-columns: 4fr 2fr 2fr 3fr !important;
   }
-  .grid.md-fr-4-2-2-4, .md-fr-4-2-2-4 .grid {
+  .grid.tablet-fr-4-2-2-4, .tablet-fr-4-2-2-4 .grid {
     grid-template-columns: 4fr 2fr 2fr 4fr !important;
   }
-  .grid.md-fr-4-2-3, .md-fr-4-2-3 .grid {
+  .grid.tablet-fr-4-2-3, .tablet-fr-4-2-3 .grid {
     grid-template-columns: 4fr 2fr 3fr !important;
   }
-  .grid.md-fr-4-2-3-1, .md-fr-4-2-3-1 .grid {
+  .grid.tablet-fr-4-2-3-1, .tablet-fr-4-2-3-1 .grid {
     grid-template-columns: 4fr 2fr 3fr 1fr !important;
   }
-  .grid.md-fr-4-2-3-2, .md-fr-4-2-3-2 .grid {
+  .grid.tablet-fr-4-2-3-2, .tablet-fr-4-2-3-2 .grid {
     grid-template-columns: 4fr 2fr 3fr 2fr !important;
   }
-  .grid.md-fr-4-2-3-3, .md-fr-4-2-3-3 .grid {
+  .grid.tablet-fr-4-2-3-3, .tablet-fr-4-2-3-3 .grid {
     grid-template-columns: 4fr 2fr 3fr 3fr !important;
   }
-  .grid.md-fr-4-2-3-4, .md-fr-4-2-3-4 .grid {
+  .grid.tablet-fr-4-2-3-4, .tablet-fr-4-2-3-4 .grid {
     grid-template-columns: 4fr 2fr 3fr 4fr !important;
   }
-  .grid.md-fr-4-2-4, .md-fr-4-2-4 .grid {
+  .grid.tablet-fr-4-2-4, .tablet-fr-4-2-4 .grid {
     grid-template-columns: 4fr 2fr 4fr !important;
   }
-  .grid.md-fr-4-2-4-1, .md-fr-4-2-4-1 .grid {
+  .grid.tablet-fr-4-2-4-1, .tablet-fr-4-2-4-1 .grid {
     grid-template-columns: 4fr 2fr 4fr 1fr !important;
   }
-  .grid.md-fr-4-2-4-2, .md-fr-4-2-4-2 .grid {
+  .grid.tablet-fr-4-2-4-2, .tablet-fr-4-2-4-2 .grid {
     grid-template-columns: 4fr 2fr 4fr 2fr !important;
   }
-  .grid.md-fr-4-2-4-3, .md-fr-4-2-4-3 .grid {
+  .grid.tablet-fr-4-2-4-3, .tablet-fr-4-2-4-3 .grid {
     grid-template-columns: 4fr 2fr 4fr 3fr !important;
   }
-  .grid.md-fr-4-2-4-4, .md-fr-4-2-4-4 .grid {
+  .grid.tablet-fr-4-2-4-4, .tablet-fr-4-2-4-4 .grid {
     grid-template-columns: 4fr 2fr 4fr 4fr !important;
   }
-  .grid.md-fr-4-3, .md-fr-4-3 .grid {
+  .grid.tablet-fr-4-3, .tablet-fr-4-3 .grid {
     grid-template-columns: 4fr 3fr !important;
   }
-  .grid.md-fr-4-3-1, .md-fr-4-3-1 .grid {
+  .grid.tablet-fr-4-3-1, .tablet-fr-4-3-1 .grid {
     grid-template-columns: 4fr 3fr 1fr !important;
   }
-  .grid.md-fr-4-3-1-1, .md-fr-4-3-1-1 .grid {
+  .grid.tablet-fr-4-3-1-1, .tablet-fr-4-3-1-1 .grid {
     grid-template-columns: 4fr 3fr 1fr 1fr !important;
   }
-  .grid.md-fr-4-3-1-2, .md-fr-4-3-1-2 .grid {
+  .grid.tablet-fr-4-3-1-2, .tablet-fr-4-3-1-2 .grid {
     grid-template-columns: 4fr 3fr 1fr 2fr !important;
   }
-  .grid.md-fr-4-3-1-3, .md-fr-4-3-1-3 .grid {
+  .grid.tablet-fr-4-3-1-3, .tablet-fr-4-3-1-3 .grid {
     grid-template-columns: 4fr 3fr 1fr 3fr !important;
   }
-  .grid.md-fr-4-3-1-4, .md-fr-4-3-1-4 .grid {
+  .grid.tablet-fr-4-3-1-4, .tablet-fr-4-3-1-4 .grid {
     grid-template-columns: 4fr 3fr 1fr 4fr !important;
   }
-  .grid.md-fr-4-3-2, .md-fr-4-3-2 .grid {
+  .grid.tablet-fr-4-3-2, .tablet-fr-4-3-2 .grid {
     grid-template-columns: 4fr 3fr 2fr !important;
   }
-  .grid.md-fr-4-3-2-1, .md-fr-4-3-2-1 .grid {
+  .grid.tablet-fr-4-3-2-1, .tablet-fr-4-3-2-1 .grid {
     grid-template-columns: 4fr 3fr 2fr 1fr !important;
   }
-  .grid.md-fr-4-3-2-2, .md-fr-4-3-2-2 .grid {
+  .grid.tablet-fr-4-3-2-2, .tablet-fr-4-3-2-2 .grid {
     grid-template-columns: 4fr 3fr 2fr 2fr !important;
   }
-  .grid.md-fr-4-3-2-3, .md-fr-4-3-2-3 .grid {
+  .grid.tablet-fr-4-3-2-3, .tablet-fr-4-3-2-3 .grid {
     grid-template-columns: 4fr 3fr 2fr 3fr !important;
   }
-  .grid.md-fr-4-3-2-4, .md-fr-4-3-2-4 .grid {
+  .grid.tablet-fr-4-3-2-4, .tablet-fr-4-3-2-4 .grid {
     grid-template-columns: 4fr 3fr 2fr 4fr !important;
   }
-  .grid.md-fr-4-3-3, .md-fr-4-3-3 .grid {
+  .grid.tablet-fr-4-3-3, .tablet-fr-4-3-3 .grid {
     grid-template-columns: 4fr 3fr 3fr !important;
   }
-  .grid.md-fr-4-3-3-1, .md-fr-4-3-3-1 .grid {
+  .grid.tablet-fr-4-3-3-1, .tablet-fr-4-3-3-1 .grid {
     grid-template-columns: 4fr 3fr 3fr 1fr !important;
   }
-  .grid.md-fr-4-3-3-2, .md-fr-4-3-3-2 .grid {
+  .grid.tablet-fr-4-3-3-2, .tablet-fr-4-3-3-2 .grid {
     grid-template-columns: 4fr 3fr 3fr 2fr !important;
   }
-  .grid.md-fr-4-3-3-3, .md-fr-4-3-3-3 .grid {
+  .grid.tablet-fr-4-3-3-3, .tablet-fr-4-3-3-3 .grid {
     grid-template-columns: 4fr 3fr 3fr 3fr !important;
   }
-  .grid.md-fr-4-3-3-4, .md-fr-4-3-3-4 .grid {
+  .grid.tablet-fr-4-3-3-4, .tablet-fr-4-3-3-4 .grid {
     grid-template-columns: 4fr 3fr 3fr 4fr !important;
   }
-  .grid.md-fr-4-3-4, .md-fr-4-3-4 .grid {
+  .grid.tablet-fr-4-3-4, .tablet-fr-4-3-4 .grid {
     grid-template-columns: 4fr 3fr 4fr !important;
   }
-  .grid.md-fr-4-3-4-1, .md-fr-4-3-4-1 .grid {
+  .grid.tablet-fr-4-3-4-1, .tablet-fr-4-3-4-1 .grid {
     grid-template-columns: 4fr 3fr 4fr 1fr !important;
   }
-  .grid.md-fr-4-3-4-2, .md-fr-4-3-4-2 .grid {
+  .grid.tablet-fr-4-3-4-2, .tablet-fr-4-3-4-2 .grid {
     grid-template-columns: 4fr 3fr 4fr 2fr !important;
   }
-  .grid.md-fr-4-3-4-3, .md-fr-4-3-4-3 .grid {
+  .grid.tablet-fr-4-3-4-3, .tablet-fr-4-3-4-3 .grid {
     grid-template-columns: 4fr 3fr 4fr 3fr !important;
   }
-  .grid.md-fr-4-3-4-4, .md-fr-4-3-4-4 .grid {
+  .grid.tablet-fr-4-3-4-4, .tablet-fr-4-3-4-4 .grid {
     grid-template-columns: 4fr 3fr 4fr 4fr !important;
   }
-  .grid.md-fr-4-4, .md-fr-4-4 .grid {
+  .grid.tablet-fr-4-4, .tablet-fr-4-4 .grid {
     grid-template-columns: 4fr 4fr !important;
   }
-  .grid.md-fr-4-4-1, .md-fr-4-4-1 .grid {
+  .grid.tablet-fr-4-4-1, .tablet-fr-4-4-1 .grid {
     grid-template-columns: 4fr 4fr 1fr !important;
   }
-  .grid.md-fr-4-4-1-1, .md-fr-4-4-1-1 .grid {
+  .grid.tablet-fr-4-4-1-1, .tablet-fr-4-4-1-1 .grid {
     grid-template-columns: 4fr 4fr 1fr 1fr !important;
   }
-  .grid.md-fr-4-4-1-2, .md-fr-4-4-1-2 .grid {
+  .grid.tablet-fr-4-4-1-2, .tablet-fr-4-4-1-2 .grid {
     grid-template-columns: 4fr 4fr 1fr 2fr !important;
   }
-  .grid.md-fr-4-4-1-3, .md-fr-4-4-1-3 .grid {
+  .grid.tablet-fr-4-4-1-3, .tablet-fr-4-4-1-3 .grid {
     grid-template-columns: 4fr 4fr 1fr 3fr !important;
   }
-  .grid.md-fr-4-4-1-4, .md-fr-4-4-1-4 .grid {
+  .grid.tablet-fr-4-4-1-4, .tablet-fr-4-4-1-4 .grid {
     grid-template-columns: 4fr 4fr 1fr 4fr !important;
   }
-  .grid.md-fr-4-4-2, .md-fr-4-4-2 .grid {
+  .grid.tablet-fr-4-4-2, .tablet-fr-4-4-2 .grid {
     grid-template-columns: 4fr 4fr 2fr !important;
   }
-  .grid.md-fr-4-4-2-1, .md-fr-4-4-2-1 .grid {
+  .grid.tablet-fr-4-4-2-1, .tablet-fr-4-4-2-1 .grid {
     grid-template-columns: 4fr 4fr 2fr 1fr !important;
   }
-  .grid.md-fr-4-4-2-2, .md-fr-4-4-2-2 .grid {
+  .grid.tablet-fr-4-4-2-2, .tablet-fr-4-4-2-2 .grid {
     grid-template-columns: 4fr 4fr 2fr 2fr !important;
   }
-  .grid.md-fr-4-4-2-3, .md-fr-4-4-2-3 .grid {
+  .grid.tablet-fr-4-4-2-3, .tablet-fr-4-4-2-3 .grid {
     grid-template-columns: 4fr 4fr 2fr 3fr !important;
   }
-  .grid.md-fr-4-4-2-4, .md-fr-4-4-2-4 .grid {
+  .grid.tablet-fr-4-4-2-4, .tablet-fr-4-4-2-4 .grid {
     grid-template-columns: 4fr 4fr 2fr 4fr !important;
   }
-  .grid.md-fr-4-4-3, .md-fr-4-4-3 .grid {
+  .grid.tablet-fr-4-4-3, .tablet-fr-4-4-3 .grid {
     grid-template-columns: 4fr 4fr 3fr !important;
   }
-  .grid.md-fr-4-4-3-1, .md-fr-4-4-3-1 .grid {
+  .grid.tablet-fr-4-4-3-1, .tablet-fr-4-4-3-1 .grid {
     grid-template-columns: 4fr 4fr 3fr 1fr !important;
   }
-  .grid.md-fr-4-4-3-2, .md-fr-4-4-3-2 .grid {
+  .grid.tablet-fr-4-4-3-2, .tablet-fr-4-4-3-2 .grid {
     grid-template-columns: 4fr 4fr 3fr 2fr !important;
   }
-  .grid.md-fr-4-4-3-3, .md-fr-4-4-3-3 .grid {
+  .grid.tablet-fr-4-4-3-3, .tablet-fr-4-4-3-3 .grid {
     grid-template-columns: 4fr 4fr 3fr 3fr !important;
   }
-  .grid.md-fr-4-4-3-4, .md-fr-4-4-3-4 .grid {
+  .grid.tablet-fr-4-4-3-4, .tablet-fr-4-4-3-4 .grid {
     grid-template-columns: 4fr 4fr 3fr 4fr !important;
   }
-  .grid.md-fr-4-4-4, .md-fr-4-4-4 .grid {
+  .grid.tablet-fr-4-4-4, .tablet-fr-4-4-4 .grid {
     grid-template-columns: 4fr 4fr 4fr !important;
   }
-  .grid.md-fr-4-4-4-1, .md-fr-4-4-4-1 .grid {
+  .grid.tablet-fr-4-4-4-1, .tablet-fr-4-4-4-1 .grid {
     grid-template-columns: 4fr 4fr 4fr 1fr !important;
   }
-  .grid.md-fr-4-4-4-2, .md-fr-4-4-4-2 .grid {
+  .grid.tablet-fr-4-4-4-2, .tablet-fr-4-4-4-2 .grid {
     grid-template-columns: 4fr 4fr 4fr 2fr !important;
   }
-  .grid.md-fr-4-4-4-3, .md-fr-4-4-4-3 .grid {
+  .grid.tablet-fr-4-4-4-3, .tablet-fr-4-4-4-3 .grid {
     grid-template-columns: 4fr 4fr 4fr 3fr !important;
   }
-  .grid.md-fr-4-4-4-4, .md-fr-4-4-4-4 .grid {
+  .grid.tablet-fr-4-4-4-4, .tablet-fr-4-4-4-4 .grid {
     grid-template-columns: 4fr 4fr 4fr 4fr !important;
   }
 }
@@ -2384,1024 +2384,1024 @@
   html[lang] .grid {
     grid-template-columns: 1fr !important;
   }
-  .grid.sm-fr-1, .sm-fr-1 .grid {
+  html[lang] .grid.mobile-fr-1, .mobile-fr-1 .grid {
     grid-template-columns: 1fr !important;
   }
-  .grid.sm-fr-1-1, .sm-fr-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-1, .mobile-fr-1-1 .grid {
     grid-template-columns: 1fr 1fr !important;
   }
-  .grid.sm-fr-1-1-1, .sm-fr-1-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-1-1, .mobile-fr-1-1-1 .grid {
     grid-template-columns: 1fr 1fr 1fr !important;
   }
-  .grid.sm-fr-1-1-1-1, .sm-fr-1-1-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-1-1-1, .mobile-fr-1-1-1-1 .grid {
     grid-template-columns: 1fr 1fr 1fr 1fr !important;
   }
-  .grid.sm-fr-1-1-1-2, .sm-fr-1-1-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-1-1-2, .mobile-fr-1-1-1-2 .grid {
     grid-template-columns: 1fr 1fr 1fr 2fr !important;
   }
-  .grid.sm-fr-1-1-1-3, .sm-fr-1-1-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-1-1-3, .mobile-fr-1-1-1-3 .grid {
     grid-template-columns: 1fr 1fr 1fr 3fr !important;
   }
-  .grid.sm-fr-1-1-1-4, .sm-fr-1-1-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-1-1-4, .mobile-fr-1-1-1-4 .grid {
     grid-template-columns: 1fr 1fr 1fr 4fr !important;
   }
-  .grid.sm-fr-1-1-2, .sm-fr-1-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-1-2, .mobile-fr-1-1-2 .grid {
     grid-template-columns: 1fr 1fr 2fr !important;
   }
-  .grid.sm-fr-1-1-2-1, .sm-fr-1-1-2-1 .grid {
+  html[lang] .grid.mobile-fr-1-1-2-1, .mobile-fr-1-1-2-1 .grid {
     grid-template-columns: 1fr 1fr 2fr 1fr !important;
   }
-  .grid.sm-fr-1-1-2-2, .sm-fr-1-1-2-2 .grid {
+  html[lang] .grid.mobile-fr-1-1-2-2, .mobile-fr-1-1-2-2 .grid {
     grid-template-columns: 1fr 1fr 2fr 2fr !important;
   }
-  .grid.sm-fr-1-1-2-3, .sm-fr-1-1-2-3 .grid {
+  html[lang] .grid.mobile-fr-1-1-2-3, .mobile-fr-1-1-2-3 .grid {
     grid-template-columns: 1fr 1fr 2fr 3fr !important;
   }
-  .grid.sm-fr-1-1-2-4, .sm-fr-1-1-2-4 .grid {
+  html[lang] .grid.mobile-fr-1-1-2-4, .mobile-fr-1-1-2-4 .grid {
     grid-template-columns: 1fr 1fr 2fr 4fr !important;
   }
-  .grid.sm-fr-1-1-3, .sm-fr-1-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-1-3, .mobile-fr-1-1-3 .grid {
     grid-template-columns: 1fr 1fr 3fr !important;
   }
-  .grid.sm-fr-1-1-3-1, .sm-fr-1-1-3-1 .grid {
+  html[lang] .grid.mobile-fr-1-1-3-1, .mobile-fr-1-1-3-1 .grid {
     grid-template-columns: 1fr 1fr 3fr 1fr !important;
   }
-  .grid.sm-fr-1-1-3-2, .sm-fr-1-1-3-2 .grid {
+  html[lang] .grid.mobile-fr-1-1-3-2, .mobile-fr-1-1-3-2 .grid {
     grid-template-columns: 1fr 1fr 3fr 2fr !important;
   }
-  .grid.sm-fr-1-1-3-3, .sm-fr-1-1-3-3 .grid {
+  html[lang] .grid.mobile-fr-1-1-3-3, .mobile-fr-1-1-3-3 .grid {
     grid-template-columns: 1fr 1fr 3fr 3fr !important;
   }
-  .grid.sm-fr-1-1-3-4, .sm-fr-1-1-3-4 .grid {
+  html[lang] .grid.mobile-fr-1-1-3-4, .mobile-fr-1-1-3-4 .grid {
     grid-template-columns: 1fr 1fr 3fr 4fr !important;
   }
-  .grid.sm-fr-1-1-4, .sm-fr-1-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-1-4, .mobile-fr-1-1-4 .grid {
     grid-template-columns: 1fr 1fr 4fr !important;
   }
-  .grid.sm-fr-1-1-4-1, .sm-fr-1-1-4-1 .grid {
+  html[lang] .grid.mobile-fr-1-1-4-1, .mobile-fr-1-1-4-1 .grid {
     grid-template-columns: 1fr 1fr 4fr 1fr !important;
   }
-  .grid.sm-fr-1-1-4-2, .sm-fr-1-1-4-2 .grid {
+  html[lang] .grid.mobile-fr-1-1-4-2, .mobile-fr-1-1-4-2 .grid {
     grid-template-columns: 1fr 1fr 4fr 2fr !important;
   }
-  .grid.sm-fr-1-1-4-3, .sm-fr-1-1-4-3 .grid {
+  html[lang] .grid.mobile-fr-1-1-4-3, .mobile-fr-1-1-4-3 .grid {
     grid-template-columns: 1fr 1fr 4fr 3fr !important;
   }
-  .grid.sm-fr-1-1-4-4, .sm-fr-1-1-4-4 .grid {
+  html[lang] .grid.mobile-fr-1-1-4-4, .mobile-fr-1-1-4-4 .grid {
     grid-template-columns: 1fr 1fr 4fr 4fr !important;
   }
-  .grid.sm-fr-1-2, .sm-fr-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-2, .mobile-fr-1-2 .grid {
     grid-template-columns: 1fr 2fr !important;
   }
-  .grid.sm-fr-1-2-1, .sm-fr-1-2-1 .grid {
+  html[lang] .grid.mobile-fr-1-2-1, .mobile-fr-1-2-1 .grid {
     grid-template-columns: 1fr 2fr 1fr !important;
   }
-  .grid.sm-fr-1-2-1-1, .sm-fr-1-2-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-2-1-1, .mobile-fr-1-2-1-1 .grid {
     grid-template-columns: 1fr 2fr 1fr 1fr !important;
   }
-  .grid.sm-fr-1-2-1-2, .sm-fr-1-2-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-2-1-2, .mobile-fr-1-2-1-2 .grid {
     grid-template-columns: 1fr 2fr 1fr 2fr !important;
   }
-  .grid.sm-fr-1-2-1-3, .sm-fr-1-2-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-2-1-3, .mobile-fr-1-2-1-3 .grid {
     grid-template-columns: 1fr 2fr 1fr 3fr !important;
   }
-  .grid.sm-fr-1-2-1-4, .sm-fr-1-2-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-2-1-4, .mobile-fr-1-2-1-4 .grid {
     grid-template-columns: 1fr 2fr 1fr 4fr !important;
   }
-  .grid.sm-fr-1-2-2, .sm-fr-1-2-2 .grid {
+  html[lang] .grid.mobile-fr-1-2-2, .mobile-fr-1-2-2 .grid {
     grid-template-columns: 1fr 2fr 2fr !important;
   }
-  .grid.sm-fr-1-2-2-1, .sm-fr-1-2-2-1 .grid {
+  html[lang] .grid.mobile-fr-1-2-2-1, .mobile-fr-1-2-2-1 .grid {
     grid-template-columns: 1fr 2fr 2fr 1fr !important;
   }
-  .grid.sm-fr-1-2-2-2, .sm-fr-1-2-2-2 .grid {
+  html[lang] .grid.mobile-fr-1-2-2-2, .mobile-fr-1-2-2-2 .grid {
     grid-template-columns: 1fr 2fr 2fr 2fr !important;
   }
-  .grid.sm-fr-1-2-2-3, .sm-fr-1-2-2-3 .grid {
+  html[lang] .grid.mobile-fr-1-2-2-3, .mobile-fr-1-2-2-3 .grid {
     grid-template-columns: 1fr 2fr 2fr 3fr !important;
   }
-  .grid.sm-fr-1-2-2-4, .sm-fr-1-2-2-4 .grid {
+  html[lang] .grid.mobile-fr-1-2-2-4, .mobile-fr-1-2-2-4 .grid {
     grid-template-columns: 1fr 2fr 2fr 4fr !important;
   }
-  .grid.sm-fr-1-2-3, .sm-fr-1-2-3 .grid {
+  html[lang] .grid.mobile-fr-1-2-3, .mobile-fr-1-2-3 .grid {
     grid-template-columns: 1fr 2fr 3fr !important;
   }
-  .grid.sm-fr-1-2-3-1, .sm-fr-1-2-3-1 .grid {
+  html[lang] .grid.mobile-fr-1-2-3-1, .mobile-fr-1-2-3-1 .grid {
     grid-template-columns: 1fr 2fr 3fr 1fr !important;
   }
-  .grid.sm-fr-1-2-3-2, .sm-fr-1-2-3-2 .grid {
+  html[lang] .grid.mobile-fr-1-2-3-2, .mobile-fr-1-2-3-2 .grid {
     grid-template-columns: 1fr 2fr 3fr 2fr !important;
   }
-  .grid.sm-fr-1-2-3-3, .sm-fr-1-2-3-3 .grid {
+  html[lang] .grid.mobile-fr-1-2-3-3, .mobile-fr-1-2-3-3 .grid {
     grid-template-columns: 1fr 2fr 3fr 3fr !important;
   }
-  .grid.sm-fr-1-2-3-4, .sm-fr-1-2-3-4 .grid {
+  html[lang] .grid.mobile-fr-1-2-3-4, .mobile-fr-1-2-3-4 .grid {
     grid-template-columns: 1fr 2fr 3fr 4fr !important;
   }
-  .grid.sm-fr-1-2-4, .sm-fr-1-2-4 .grid {
+  html[lang] .grid.mobile-fr-1-2-4, .mobile-fr-1-2-4 .grid {
     grid-template-columns: 1fr 2fr 4fr !important;
   }
-  .grid.sm-fr-1-2-4-1, .sm-fr-1-2-4-1 .grid {
+  html[lang] .grid.mobile-fr-1-2-4-1, .mobile-fr-1-2-4-1 .grid {
     grid-template-columns: 1fr 2fr 4fr 1fr !important;
   }
-  .grid.sm-fr-1-2-4-2, .sm-fr-1-2-4-2 .grid {
+  html[lang] .grid.mobile-fr-1-2-4-2, .mobile-fr-1-2-4-2 .grid {
     grid-template-columns: 1fr 2fr 4fr 2fr !important;
   }
-  .grid.sm-fr-1-2-4-3, .sm-fr-1-2-4-3 .grid {
+  html[lang] .grid.mobile-fr-1-2-4-3, .mobile-fr-1-2-4-3 .grid {
     grid-template-columns: 1fr 2fr 4fr 3fr !important;
   }
-  .grid.sm-fr-1-2-4-4, .sm-fr-1-2-4-4 .grid {
+  html[lang] .grid.mobile-fr-1-2-4-4, .mobile-fr-1-2-4-4 .grid {
     grid-template-columns: 1fr 2fr 4fr 4fr !important;
   }
-  .grid.sm-fr-1-3, .sm-fr-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-3, .mobile-fr-1-3 .grid {
     grid-template-columns: 1fr 3fr !important;
   }
-  .grid.sm-fr-1-3-1, .sm-fr-1-3-1 .grid {
+  html[lang] .grid.mobile-fr-1-3-1, .mobile-fr-1-3-1 .grid {
     grid-template-columns: 1fr 3fr 1fr !important;
   }
-  .grid.sm-fr-1-3-1-1, .sm-fr-1-3-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-3-1-1, .mobile-fr-1-3-1-1 .grid {
     grid-template-columns: 1fr 3fr 1fr 1fr !important;
   }
-  .grid.sm-fr-1-3-1-2, .sm-fr-1-3-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-3-1-2, .mobile-fr-1-3-1-2 .grid {
     grid-template-columns: 1fr 3fr 1fr 2fr !important;
   }
-  .grid.sm-fr-1-3-1-3, .sm-fr-1-3-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-3-1-3, .mobile-fr-1-3-1-3 .grid {
     grid-template-columns: 1fr 3fr 1fr 3fr !important;
   }
-  .grid.sm-fr-1-3-1-4, .sm-fr-1-3-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-3-1-4, .mobile-fr-1-3-1-4 .grid {
     grid-template-columns: 1fr 3fr 1fr 4fr !important;
   }
-  .grid.sm-fr-1-3-2, .sm-fr-1-3-2 .grid {
+  html[lang] .grid.mobile-fr-1-3-2, .mobile-fr-1-3-2 .grid {
     grid-template-columns: 1fr 3fr 2fr !important;
   }
-  .grid.sm-fr-1-3-2-1, .sm-fr-1-3-2-1 .grid {
+  html[lang] .grid.mobile-fr-1-3-2-1, .mobile-fr-1-3-2-1 .grid {
     grid-template-columns: 1fr 3fr 2fr 1fr !important;
   }
-  .grid.sm-fr-1-3-2-2, .sm-fr-1-3-2-2 .grid {
+  html[lang] .grid.mobile-fr-1-3-2-2, .mobile-fr-1-3-2-2 .grid {
     grid-template-columns: 1fr 3fr 2fr 2fr !important;
   }
-  .grid.sm-fr-1-3-2-3, .sm-fr-1-3-2-3 .grid {
+  html[lang] .grid.mobile-fr-1-3-2-3, .mobile-fr-1-3-2-3 .grid {
     grid-template-columns: 1fr 3fr 2fr 3fr !important;
   }
-  .grid.sm-fr-1-3-2-4, .sm-fr-1-3-2-4 .grid {
+  html[lang] .grid.mobile-fr-1-3-2-4, .mobile-fr-1-3-2-4 .grid {
     grid-template-columns: 1fr 3fr 2fr 4fr !important;
   }
-  .grid.sm-fr-1-3-3, .sm-fr-1-3-3 .grid {
+  html[lang] .grid.mobile-fr-1-3-3, .mobile-fr-1-3-3 .grid {
     grid-template-columns: 1fr 3fr 3fr !important;
   }
-  .grid.sm-fr-1-3-3-1, .sm-fr-1-3-3-1 .grid {
+  html[lang] .grid.mobile-fr-1-3-3-1, .mobile-fr-1-3-3-1 .grid {
     grid-template-columns: 1fr 3fr 3fr 1fr !important;
   }
-  .grid.sm-fr-1-3-3-2, .sm-fr-1-3-3-2 .grid {
+  html[lang] .grid.mobile-fr-1-3-3-2, .mobile-fr-1-3-3-2 .grid {
     grid-template-columns: 1fr 3fr 3fr 2fr !important;
   }
-  .grid.sm-fr-1-3-3-3, .sm-fr-1-3-3-3 .grid {
+  html[lang] .grid.mobile-fr-1-3-3-3, .mobile-fr-1-3-3-3 .grid {
     grid-template-columns: 1fr 3fr 3fr 3fr !important;
   }
-  .grid.sm-fr-1-3-3-4, .sm-fr-1-3-3-4 .grid {
+  html[lang] .grid.mobile-fr-1-3-3-4, .mobile-fr-1-3-3-4 .grid {
     grid-template-columns: 1fr 3fr 3fr 4fr !important;
   }
-  .grid.sm-fr-1-3-4, .sm-fr-1-3-4 .grid {
+  html[lang] .grid.mobile-fr-1-3-4, .mobile-fr-1-3-4 .grid {
     grid-template-columns: 1fr 3fr 4fr !important;
   }
-  .grid.sm-fr-1-3-4-1, .sm-fr-1-3-4-1 .grid {
+  html[lang] .grid.mobile-fr-1-3-4-1, .mobile-fr-1-3-4-1 .grid {
     grid-template-columns: 1fr 3fr 4fr 1fr !important;
   }
-  .grid.sm-fr-1-3-4-2, .sm-fr-1-3-4-2 .grid {
+  html[lang] .grid.mobile-fr-1-3-4-2, .mobile-fr-1-3-4-2 .grid {
     grid-template-columns: 1fr 3fr 4fr 2fr !important;
   }
-  .grid.sm-fr-1-3-4-3, .sm-fr-1-3-4-3 .grid {
+  html[lang] .grid.mobile-fr-1-3-4-3, .mobile-fr-1-3-4-3 .grid {
     grid-template-columns: 1fr 3fr 4fr 3fr !important;
   }
-  .grid.sm-fr-1-3-4-4, .sm-fr-1-3-4-4 .grid {
+  html[lang] .grid.mobile-fr-1-3-4-4, .mobile-fr-1-3-4-4 .grid {
     grid-template-columns: 1fr 3fr 4fr 4fr !important;
   }
-  .grid.sm-fr-1-4, .sm-fr-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-4, .mobile-fr-1-4 .grid {
     grid-template-columns: 1fr 4fr !important;
   }
-  .grid.sm-fr-1-4-1, .sm-fr-1-4-1 .grid {
+  html[lang] .grid.mobile-fr-1-4-1, .mobile-fr-1-4-1 .grid {
     grid-template-columns: 1fr 4fr 1fr !important;
   }
-  .grid.sm-fr-1-4-1-1, .sm-fr-1-4-1-1 .grid {
+  html[lang] .grid.mobile-fr-1-4-1-1, .mobile-fr-1-4-1-1 .grid {
     grid-template-columns: 1fr 4fr 1fr 1fr !important;
   }
-  .grid.sm-fr-1-4-1-2, .sm-fr-1-4-1-2 .grid {
+  html[lang] .grid.mobile-fr-1-4-1-2, .mobile-fr-1-4-1-2 .grid {
     grid-template-columns: 1fr 4fr 1fr 2fr !important;
   }
-  .grid.sm-fr-1-4-1-3, .sm-fr-1-4-1-3 .grid {
+  html[lang] .grid.mobile-fr-1-4-1-3, .mobile-fr-1-4-1-3 .grid {
     grid-template-columns: 1fr 4fr 1fr 3fr !important;
   }
-  .grid.sm-fr-1-4-1-4, .sm-fr-1-4-1-4 .grid {
+  html[lang] .grid.mobile-fr-1-4-1-4, .mobile-fr-1-4-1-4 .grid {
     grid-template-columns: 1fr 4fr 1fr 4fr !important;
   }
-  .grid.sm-fr-1-4-2, .sm-fr-1-4-2 .grid {
+  html[lang] .grid.mobile-fr-1-4-2, .mobile-fr-1-4-2 .grid {
     grid-template-columns: 1fr 4fr 2fr !important;
   }
-  .grid.sm-fr-1-4-2-1, .sm-fr-1-4-2-1 .grid {
+  html[lang] .grid.mobile-fr-1-4-2-1, .mobile-fr-1-4-2-1 .grid {
     grid-template-columns: 1fr 4fr 2fr 1fr !important;
   }
-  .grid.sm-fr-1-4-2-2, .sm-fr-1-4-2-2 .grid {
+  html[lang] .grid.mobile-fr-1-4-2-2, .mobile-fr-1-4-2-2 .grid {
     grid-template-columns: 1fr 4fr 2fr 2fr !important;
   }
-  .grid.sm-fr-1-4-2-3, .sm-fr-1-4-2-3 .grid {
+  html[lang] .grid.mobile-fr-1-4-2-3, .mobile-fr-1-4-2-3 .grid {
     grid-template-columns: 1fr 4fr 2fr 3fr !important;
   }
-  .grid.sm-fr-1-4-2-4, .sm-fr-1-4-2-4 .grid {
+  html[lang] .grid.mobile-fr-1-4-2-4, .mobile-fr-1-4-2-4 .grid {
     grid-template-columns: 1fr 4fr 2fr 4fr !important;
   }
-  .grid.sm-fr-1-4-3, .sm-fr-1-4-3 .grid {
+  html[lang] .grid.mobile-fr-1-4-3, .mobile-fr-1-4-3 .grid {
     grid-template-columns: 1fr 4fr 3fr !important;
   }
-  .grid.sm-fr-1-4-3-1, .sm-fr-1-4-3-1 .grid {
+  html[lang] .grid.mobile-fr-1-4-3-1, .mobile-fr-1-4-3-1 .grid {
     grid-template-columns: 1fr 4fr 3fr 1fr !important;
   }
-  .grid.sm-fr-1-4-3-2, .sm-fr-1-4-3-2 .grid {
+  html[lang] .grid.mobile-fr-1-4-3-2, .mobile-fr-1-4-3-2 .grid {
     grid-template-columns: 1fr 4fr 3fr 2fr !important;
   }
-  .grid.sm-fr-1-4-3-3, .sm-fr-1-4-3-3 .grid {
+  html[lang] .grid.mobile-fr-1-4-3-3, .mobile-fr-1-4-3-3 .grid {
     grid-template-columns: 1fr 4fr 3fr 3fr !important;
   }
-  .grid.sm-fr-1-4-3-4, .sm-fr-1-4-3-4 .grid {
+  html[lang] .grid.mobile-fr-1-4-3-4, .mobile-fr-1-4-3-4 .grid {
     grid-template-columns: 1fr 4fr 3fr 4fr !important;
   }
-  .grid.sm-fr-1-4-4, .sm-fr-1-4-4 .grid {
+  html[lang] .grid.mobile-fr-1-4-4, .mobile-fr-1-4-4 .grid {
     grid-template-columns: 1fr 4fr 4fr !important;
   }
-  .grid.sm-fr-1-4-4-1, .sm-fr-1-4-4-1 .grid {
+  html[lang] .grid.mobile-fr-1-4-4-1, .mobile-fr-1-4-4-1 .grid {
     grid-template-columns: 1fr 4fr 4fr 1fr !important;
   }
-  .grid.sm-fr-1-4-4-2, .sm-fr-1-4-4-2 .grid {
+  html[lang] .grid.mobile-fr-1-4-4-2, .mobile-fr-1-4-4-2 .grid {
     grid-template-columns: 1fr 4fr 4fr 2fr !important;
   }
-  .grid.sm-fr-1-4-4-3, .sm-fr-1-4-4-3 .grid {
+  html[lang] .grid.mobile-fr-1-4-4-3, .mobile-fr-1-4-4-3 .grid {
     grid-template-columns: 1fr 4fr 4fr 3fr !important;
   }
-  .grid.sm-fr-1-4-4-4, .sm-fr-1-4-4-4 .grid {
+  html[lang] .grid.mobile-fr-1-4-4-4, .mobile-fr-1-4-4-4 .grid {
     grid-template-columns: 1fr 4fr 4fr 4fr !important;
   }
-  .grid.sm-fr-2, .sm-fr-2 .grid {
+  html[lang] .grid.mobile-fr-2, .mobile-fr-2 .grid {
     grid-template-columns: 2fr !important;
   }
-  .grid.sm-fr-2-1, .sm-fr-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-1, .mobile-fr-2-1 .grid {
     grid-template-columns: 2fr 1fr !important;
   }
-  .grid.sm-fr-2-1-1, .sm-fr-2-1-1 .grid {
+  html[lang] .grid.mobile-fr-2-1-1, .mobile-fr-2-1-1 .grid {
     grid-template-columns: 2fr 1fr 1fr !important;
   }
-  .grid.sm-fr-2-1-1-1, .sm-fr-2-1-1-1 .grid {
+  html[lang] .grid.mobile-fr-2-1-1-1, .mobile-fr-2-1-1-1 .grid {
     grid-template-columns: 2fr 1fr 1fr 1fr !important;
   }
-  .grid.sm-fr-2-1-1-2, .sm-fr-2-1-1-2 .grid {
+  html[lang] .grid.mobile-fr-2-1-1-2, .mobile-fr-2-1-1-2 .grid {
     grid-template-columns: 2fr 1fr 1fr 2fr !important;
   }
-  .grid.sm-fr-2-1-1-3, .sm-fr-2-1-1-3 .grid {
+  html[lang] .grid.mobile-fr-2-1-1-3, .mobile-fr-2-1-1-3 .grid {
     grid-template-columns: 2fr 1fr 1fr 3fr !important;
   }
-  .grid.sm-fr-2-1-1-4, .sm-fr-2-1-1-4 .grid {
+  html[lang] .grid.mobile-fr-2-1-1-4, .mobile-fr-2-1-1-4 .grid {
     grid-template-columns: 2fr 1fr 1fr 4fr !important;
   }
-  .grid.sm-fr-2-1-2, .sm-fr-2-1-2 .grid {
+  html[lang] .grid.mobile-fr-2-1-2, .mobile-fr-2-1-2 .grid {
     grid-template-columns: 2fr 1fr 2fr !important;
   }
-  .grid.sm-fr-2-1-2-1, .sm-fr-2-1-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-1-2-1, .mobile-fr-2-1-2-1 .grid {
     grid-template-columns: 2fr 1fr 2fr 1fr !important;
   }
-  .grid.sm-fr-2-1-2-2, .sm-fr-2-1-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-1-2-2, .mobile-fr-2-1-2-2 .grid {
     grid-template-columns: 2fr 1fr 2fr 2fr !important;
   }
-  .grid.sm-fr-2-1-2-3, .sm-fr-2-1-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-1-2-3, .mobile-fr-2-1-2-3 .grid {
     grid-template-columns: 2fr 1fr 2fr 3fr !important;
   }
-  .grid.sm-fr-2-1-2-4, .sm-fr-2-1-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-1-2-4, .mobile-fr-2-1-2-4 .grid {
     grid-template-columns: 2fr 1fr 2fr 4fr !important;
   }
-  .grid.sm-fr-2-1-3, .sm-fr-2-1-3 .grid {
+  html[lang] .grid.mobile-fr-2-1-3, .mobile-fr-2-1-3 .grid {
     grid-template-columns: 2fr 1fr 3fr !important;
   }
-  .grid.sm-fr-2-1-3-1, .sm-fr-2-1-3-1 .grid {
+  html[lang] .grid.mobile-fr-2-1-3-1, .mobile-fr-2-1-3-1 .grid {
     grid-template-columns: 2fr 1fr 3fr 1fr !important;
   }
-  .grid.sm-fr-2-1-3-2, .sm-fr-2-1-3-2 .grid {
+  html[lang] .grid.mobile-fr-2-1-3-2, .mobile-fr-2-1-3-2 .grid {
     grid-template-columns: 2fr 1fr 3fr 2fr !important;
   }
-  .grid.sm-fr-2-1-3-3, .sm-fr-2-1-3-3 .grid {
+  html[lang] .grid.mobile-fr-2-1-3-3, .mobile-fr-2-1-3-3 .grid {
     grid-template-columns: 2fr 1fr 3fr 3fr !important;
   }
-  .grid.sm-fr-2-1-3-4, .sm-fr-2-1-3-4 .grid {
+  html[lang] .grid.mobile-fr-2-1-3-4, .mobile-fr-2-1-3-4 .grid {
     grid-template-columns: 2fr 1fr 3fr 4fr !important;
   }
-  .grid.sm-fr-2-1-4, .sm-fr-2-1-4 .grid {
+  html[lang] .grid.mobile-fr-2-1-4, .mobile-fr-2-1-4 .grid {
     grid-template-columns: 2fr 1fr 4fr !important;
   }
-  .grid.sm-fr-2-1-4-1, .sm-fr-2-1-4-1 .grid {
+  html[lang] .grid.mobile-fr-2-1-4-1, .mobile-fr-2-1-4-1 .grid {
     grid-template-columns: 2fr 1fr 4fr 1fr !important;
   }
-  .grid.sm-fr-2-1-4-2, .sm-fr-2-1-4-2 .grid {
+  html[lang] .grid.mobile-fr-2-1-4-2, .mobile-fr-2-1-4-2 .grid {
     grid-template-columns: 2fr 1fr 4fr 2fr !important;
   }
-  .grid.sm-fr-2-1-4-3, .sm-fr-2-1-4-3 .grid {
+  html[lang] .grid.mobile-fr-2-1-4-3, .mobile-fr-2-1-4-3 .grid {
     grid-template-columns: 2fr 1fr 4fr 3fr !important;
   }
-  .grid.sm-fr-2-1-4-4, .sm-fr-2-1-4-4 .grid {
+  html[lang] .grid.mobile-fr-2-1-4-4, .mobile-fr-2-1-4-4 .grid {
     grid-template-columns: 2fr 1fr 4fr 4fr !important;
   }
-  .grid.sm-fr-2-2, .sm-fr-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-2, .mobile-fr-2-2 .grid {
     grid-template-columns: 2fr 2fr !important;
   }
-  .grid.sm-fr-2-2-1, .sm-fr-2-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-2-1, .mobile-fr-2-2-1 .grid {
     grid-template-columns: 2fr 2fr 1fr !important;
   }
-  .grid.sm-fr-2-2-1-1, .sm-fr-2-2-1-1 .grid {
+  html[lang] .grid.mobile-fr-2-2-1-1, .mobile-fr-2-2-1-1 .grid {
     grid-template-columns: 2fr 2fr 1fr 1fr !important;
   }
-  .grid.sm-fr-2-2-1-2, .sm-fr-2-2-1-2 .grid {
+  html[lang] .grid.mobile-fr-2-2-1-2, .mobile-fr-2-2-1-2 .grid {
     grid-template-columns: 2fr 2fr 1fr 2fr !important;
   }
-  .grid.sm-fr-2-2-1-3, .sm-fr-2-2-1-3 .grid {
+  html[lang] .grid.mobile-fr-2-2-1-3, .mobile-fr-2-2-1-3 .grid {
     grid-template-columns: 2fr 2fr 1fr 3fr !important;
   }
-  .grid.sm-fr-2-2-1-4, .sm-fr-2-2-1-4 .grid {
+  html[lang] .grid.mobile-fr-2-2-1-4, .mobile-fr-2-2-1-4 .grid {
     grid-template-columns: 2fr 2fr 1fr 4fr !important;
   }
-  .grid.sm-fr-2-2-2, .sm-fr-2-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-2-2, .mobile-fr-2-2-2 .grid {
     grid-template-columns: 2fr 2fr 2fr !important;
   }
-  .grid.sm-fr-2-2-2-1, .sm-fr-2-2-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-2-2-1, .mobile-fr-2-2-2-1 .grid {
     grid-template-columns: 2fr 2fr 2fr 1fr !important;
   }
-  .grid.sm-fr-2-2-2-2, .sm-fr-2-2-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-2-2-2, .mobile-fr-2-2-2-2 .grid {
     grid-template-columns: 2fr 2fr 2fr 2fr !important;
   }
-  .grid.sm-fr-2-2-2-3, .sm-fr-2-2-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-2-2-3, .mobile-fr-2-2-2-3 .grid {
     grid-template-columns: 2fr 2fr 2fr 3fr !important;
   }
-  .grid.sm-fr-2-2-2-4, .sm-fr-2-2-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-2-2-4, .mobile-fr-2-2-2-4 .grid {
     grid-template-columns: 2fr 2fr 2fr 4fr !important;
   }
-  .grid.sm-fr-2-2-3, .sm-fr-2-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-2-3, .mobile-fr-2-2-3 .grid {
     grid-template-columns: 2fr 2fr 3fr !important;
   }
-  .grid.sm-fr-2-2-3-1, .sm-fr-2-2-3-1 .grid {
+  html[lang] .grid.mobile-fr-2-2-3-1, .mobile-fr-2-2-3-1 .grid {
     grid-template-columns: 2fr 2fr 3fr 1fr !important;
   }
-  .grid.sm-fr-2-2-3-2, .sm-fr-2-2-3-2 .grid {
+  html[lang] .grid.mobile-fr-2-2-3-2, .mobile-fr-2-2-3-2 .grid {
     grid-template-columns: 2fr 2fr 3fr 2fr !important;
   }
-  .grid.sm-fr-2-2-3-3, .sm-fr-2-2-3-3 .grid {
+  html[lang] .grid.mobile-fr-2-2-3-3, .mobile-fr-2-2-3-3 .grid {
     grid-template-columns: 2fr 2fr 3fr 3fr !important;
   }
-  .grid.sm-fr-2-2-3-4, .sm-fr-2-2-3-4 .grid {
+  html[lang] .grid.mobile-fr-2-2-3-4, .mobile-fr-2-2-3-4 .grid {
     grid-template-columns: 2fr 2fr 3fr 4fr !important;
   }
-  .grid.sm-fr-2-2-4, .sm-fr-2-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-2-4, .mobile-fr-2-2-4 .grid {
     grid-template-columns: 2fr 2fr 4fr !important;
   }
-  .grid.sm-fr-2-2-4-1, .sm-fr-2-2-4-1 .grid {
+  html[lang] .grid.mobile-fr-2-2-4-1, .mobile-fr-2-2-4-1 .grid {
     grid-template-columns: 2fr 2fr 4fr 1fr !important;
   }
-  .grid.sm-fr-2-2-4-2, .sm-fr-2-2-4-2 .grid {
+  html[lang] .grid.mobile-fr-2-2-4-2, .mobile-fr-2-2-4-2 .grid {
     grid-template-columns: 2fr 2fr 4fr 2fr !important;
   }
-  .grid.sm-fr-2-2-4-3, .sm-fr-2-2-4-3 .grid {
+  html[lang] .grid.mobile-fr-2-2-4-3, .mobile-fr-2-2-4-3 .grid {
     grid-template-columns: 2fr 2fr 4fr 3fr !important;
   }
-  .grid.sm-fr-2-2-4-4, .sm-fr-2-2-4-4 .grid {
+  html[lang] .grid.mobile-fr-2-2-4-4, .mobile-fr-2-2-4-4 .grid {
     grid-template-columns: 2fr 2fr 4fr 4fr !important;
   }
-  .grid.sm-fr-2-3, .sm-fr-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-3, .mobile-fr-2-3 .grid {
     grid-template-columns: 2fr 3fr !important;
   }
-  .grid.sm-fr-2-3-1, .sm-fr-2-3-1 .grid {
+  html[lang] .grid.mobile-fr-2-3-1, .mobile-fr-2-3-1 .grid {
     grid-template-columns: 2fr 3fr 1fr !important;
   }
-  .grid.sm-fr-2-3-1-1, .sm-fr-2-3-1-1 .grid {
+  html[lang] .grid.mobile-fr-2-3-1-1, .mobile-fr-2-3-1-1 .grid {
     grid-template-columns: 2fr 3fr 1fr 1fr !important;
   }
-  .grid.sm-fr-2-3-1-2, .sm-fr-2-3-1-2 .grid {
+  html[lang] .grid.mobile-fr-2-3-1-2, .mobile-fr-2-3-1-2 .grid {
     grid-template-columns: 2fr 3fr 1fr 2fr !important;
   }
-  .grid.sm-fr-2-3-1-3, .sm-fr-2-3-1-3 .grid {
+  html[lang] .grid.mobile-fr-2-3-1-3, .mobile-fr-2-3-1-3 .grid {
     grid-template-columns: 2fr 3fr 1fr 3fr !important;
   }
-  .grid.sm-fr-2-3-1-4, .sm-fr-2-3-1-4 .grid {
+  html[lang] .grid.mobile-fr-2-3-1-4, .mobile-fr-2-3-1-4 .grid {
     grid-template-columns: 2fr 3fr 1fr 4fr !important;
   }
-  .grid.sm-fr-2-3-2, .sm-fr-2-3-2 .grid {
+  html[lang] .grid.mobile-fr-2-3-2, .mobile-fr-2-3-2 .grid {
     grid-template-columns: 2fr 3fr 2fr !important;
   }
-  .grid.sm-fr-2-3-2-1, .sm-fr-2-3-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-3-2-1, .mobile-fr-2-3-2-1 .grid {
     grid-template-columns: 2fr 3fr 2fr 1fr !important;
   }
-  .grid.sm-fr-2-3-2-2, .sm-fr-2-3-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-3-2-2, .mobile-fr-2-3-2-2 .grid {
     grid-template-columns: 2fr 3fr 2fr 2fr !important;
   }
-  .grid.sm-fr-2-3-2-3, .sm-fr-2-3-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-3-2-3, .mobile-fr-2-3-2-3 .grid {
     grid-template-columns: 2fr 3fr 2fr 3fr !important;
   }
-  .grid.sm-fr-2-3-2-4, .sm-fr-2-3-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-3-2-4, .mobile-fr-2-3-2-4 .grid {
     grid-template-columns: 2fr 3fr 2fr 4fr !important;
   }
-  .grid.sm-fr-2-3-3, .sm-fr-2-3-3 .grid {
+  html[lang] .grid.mobile-fr-2-3-3, .mobile-fr-2-3-3 .grid {
     grid-template-columns: 2fr 3fr 3fr !important;
   }
-  .grid.sm-fr-2-3-3-1, .sm-fr-2-3-3-1 .grid {
+  html[lang] .grid.mobile-fr-2-3-3-1, .mobile-fr-2-3-3-1 .grid {
     grid-template-columns: 2fr 3fr 3fr 1fr !important;
   }
-  .grid.sm-fr-2-3-3-2, .sm-fr-2-3-3-2 .grid {
+  html[lang] .grid.mobile-fr-2-3-3-2, .mobile-fr-2-3-3-2 .grid {
     grid-template-columns: 2fr 3fr 3fr 2fr !important;
   }
-  .grid.sm-fr-2-3-3-3, .sm-fr-2-3-3-3 .grid {
+  html[lang] .grid.mobile-fr-2-3-3-3, .mobile-fr-2-3-3-3 .grid {
     grid-template-columns: 2fr 3fr 3fr 3fr !important;
   }
-  .grid.sm-fr-2-3-3-4, .sm-fr-2-3-3-4 .grid {
+  html[lang] .grid.mobile-fr-2-3-3-4, .mobile-fr-2-3-3-4 .grid {
     grid-template-columns: 2fr 3fr 3fr 4fr !important;
   }
-  .grid.sm-fr-2-3-4, .sm-fr-2-3-4 .grid {
+  html[lang] .grid.mobile-fr-2-3-4, .mobile-fr-2-3-4 .grid {
     grid-template-columns: 2fr 3fr 4fr !important;
   }
-  .grid.sm-fr-2-3-4-1, .sm-fr-2-3-4-1 .grid {
+  html[lang] .grid.mobile-fr-2-3-4-1, .mobile-fr-2-3-4-1 .grid {
     grid-template-columns: 2fr 3fr 4fr 1fr !important;
   }
-  .grid.sm-fr-2-3-4-2, .sm-fr-2-3-4-2 .grid {
+  html[lang] .grid.mobile-fr-2-3-4-2, .mobile-fr-2-3-4-2 .grid {
     grid-template-columns: 2fr 3fr 4fr 2fr !important;
   }
-  .grid.sm-fr-2-3-4-3, .sm-fr-2-3-4-3 .grid {
+  html[lang] .grid.mobile-fr-2-3-4-3, .mobile-fr-2-3-4-3 .grid {
     grid-template-columns: 2fr 3fr 4fr 3fr !important;
   }
-  .grid.sm-fr-2-3-4-4, .sm-fr-2-3-4-4 .grid {
+  html[lang] .grid.mobile-fr-2-3-4-4, .mobile-fr-2-3-4-4 .grid {
     grid-template-columns: 2fr 3fr 4fr 4fr !important;
   }
-  .grid.sm-fr-2-4, .sm-fr-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-4, .mobile-fr-2-4 .grid {
     grid-template-columns: 2fr 4fr !important;
   }
-  .grid.sm-fr-2-4-1, .sm-fr-2-4-1 .grid {
+  html[lang] .grid.mobile-fr-2-4-1, .mobile-fr-2-4-1 .grid {
     grid-template-columns: 2fr 4fr 1fr !important;
   }
-  .grid.sm-fr-2-4-1-1, .sm-fr-2-4-1-1 .grid {
+  html[lang] .grid.mobile-fr-2-4-1-1, .mobile-fr-2-4-1-1 .grid {
     grid-template-columns: 2fr 4fr 1fr 1fr !important;
   }
-  .grid.sm-fr-2-4-1-2, .sm-fr-2-4-1-2 .grid {
+  html[lang] .grid.mobile-fr-2-4-1-2, .mobile-fr-2-4-1-2 .grid {
     grid-template-columns: 2fr 4fr 1fr 2fr !important;
   }
-  .grid.sm-fr-2-4-1-3, .sm-fr-2-4-1-3 .grid {
+  html[lang] .grid.mobile-fr-2-4-1-3, .mobile-fr-2-4-1-3 .grid {
     grid-template-columns: 2fr 4fr 1fr 3fr !important;
   }
-  .grid.sm-fr-2-4-1-4, .sm-fr-2-4-1-4 .grid {
+  html[lang] .grid.mobile-fr-2-4-1-4, .mobile-fr-2-4-1-4 .grid {
     grid-template-columns: 2fr 4fr 1fr 4fr !important;
   }
-  .grid.sm-fr-2-4-2, .sm-fr-2-4-2 .grid {
+  html[lang] .grid.mobile-fr-2-4-2, .mobile-fr-2-4-2 .grid {
     grid-template-columns: 2fr 4fr 2fr !important;
   }
-  .grid.sm-fr-2-4-2-1, .sm-fr-2-4-2-1 .grid {
+  html[lang] .grid.mobile-fr-2-4-2-1, .mobile-fr-2-4-2-1 .grid {
     grid-template-columns: 2fr 4fr 2fr 1fr !important;
   }
-  .grid.sm-fr-2-4-2-2, .sm-fr-2-4-2-2 .grid {
+  html[lang] .grid.mobile-fr-2-4-2-2, .mobile-fr-2-4-2-2 .grid {
     grid-template-columns: 2fr 4fr 2fr 2fr !important;
   }
-  .grid.sm-fr-2-4-2-3, .sm-fr-2-4-2-3 .grid {
+  html[lang] .grid.mobile-fr-2-4-2-3, .mobile-fr-2-4-2-3 .grid {
     grid-template-columns: 2fr 4fr 2fr 3fr !important;
   }
-  .grid.sm-fr-2-4-2-4, .sm-fr-2-4-2-4 .grid {
+  html[lang] .grid.mobile-fr-2-4-2-4, .mobile-fr-2-4-2-4 .grid {
     grid-template-columns: 2fr 4fr 2fr 4fr !important;
   }
-  .grid.sm-fr-2-4-3, .sm-fr-2-4-3 .grid {
+  html[lang] .grid.mobile-fr-2-4-3, .mobile-fr-2-4-3 .grid {
     grid-template-columns: 2fr 4fr 3fr !important;
   }
-  .grid.sm-fr-2-4-3-1, .sm-fr-2-4-3-1 .grid {
+  html[lang] .grid.mobile-fr-2-4-3-1, .mobile-fr-2-4-3-1 .grid {
     grid-template-columns: 2fr 4fr 3fr 1fr !important;
   }
-  .grid.sm-fr-2-4-3-2, .sm-fr-2-4-3-2 .grid {
+  html[lang] .grid.mobile-fr-2-4-3-2, .mobile-fr-2-4-3-2 .grid {
     grid-template-columns: 2fr 4fr 3fr 2fr !important;
   }
-  .grid.sm-fr-2-4-3-3, .sm-fr-2-4-3-3 .grid {
+  html[lang] .grid.mobile-fr-2-4-3-3, .mobile-fr-2-4-3-3 .grid {
     grid-template-columns: 2fr 4fr 3fr 3fr !important;
   }
-  .grid.sm-fr-2-4-3-4, .sm-fr-2-4-3-4 .grid {
+  html[lang] .grid.mobile-fr-2-4-3-4, .mobile-fr-2-4-3-4 .grid {
     grid-template-columns: 2fr 4fr 3fr 4fr !important;
   }
-  .grid.sm-fr-2-4-4, .sm-fr-2-4-4 .grid {
+  html[lang] .grid.mobile-fr-2-4-4, .mobile-fr-2-4-4 .grid {
     grid-template-columns: 2fr 4fr 4fr !important;
   }
-  .grid.sm-fr-2-4-4-1, .sm-fr-2-4-4-1 .grid {
+  html[lang] .grid.mobile-fr-2-4-4-1, .mobile-fr-2-4-4-1 .grid {
     grid-template-columns: 2fr 4fr 4fr 1fr !important;
   }
-  .grid.sm-fr-2-4-4-2, .sm-fr-2-4-4-2 .grid {
+  html[lang] .grid.mobile-fr-2-4-4-2, .mobile-fr-2-4-4-2 .grid {
     grid-template-columns: 2fr 4fr 4fr 2fr !important;
   }
-  .grid.sm-fr-2-4-4-3, .sm-fr-2-4-4-3 .grid {
+  html[lang] .grid.mobile-fr-2-4-4-3, .mobile-fr-2-4-4-3 .grid {
     grid-template-columns: 2fr 4fr 4fr 3fr !important;
   }
-  .grid.sm-fr-2-4-4-4, .sm-fr-2-4-4-4 .grid {
+  html[lang] .grid.mobile-fr-2-4-4-4, .mobile-fr-2-4-4-4 .grid {
     grid-template-columns: 2fr 4fr 4fr 4fr !important;
   }
-  .grid.sm-fr-3, .sm-fr-3 .grid {
+  html[lang] .grid.mobile-fr-3, .mobile-fr-3 .grid {
     grid-template-columns: 3fr !important;
   }
-  .grid.sm-fr-3-1, .sm-fr-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-1, .mobile-fr-3-1 .grid {
     grid-template-columns: 3fr 1fr !important;
   }
-  .grid.sm-fr-3-1-1, .sm-fr-3-1-1 .grid {
+  html[lang] .grid.mobile-fr-3-1-1, .mobile-fr-3-1-1 .grid {
     grid-template-columns: 3fr 1fr 1fr !important;
   }
-  .grid.sm-fr-3-1-1-1, .sm-fr-3-1-1-1 .grid {
+  html[lang] .grid.mobile-fr-3-1-1-1, .mobile-fr-3-1-1-1 .grid {
     grid-template-columns: 3fr 1fr 1fr 1fr !important;
   }
-  .grid.sm-fr-3-1-1-2, .sm-fr-3-1-1-2 .grid {
+  html[lang] .grid.mobile-fr-3-1-1-2, .mobile-fr-3-1-1-2 .grid {
     grid-template-columns: 3fr 1fr 1fr 2fr !important;
   }
-  .grid.sm-fr-3-1-1-3, .sm-fr-3-1-1-3 .grid {
+  html[lang] .grid.mobile-fr-3-1-1-3, .mobile-fr-3-1-1-3 .grid {
     grid-template-columns: 3fr 1fr 1fr 3fr !important;
   }
-  .grid.sm-fr-3-1-1-4, .sm-fr-3-1-1-4 .grid {
+  html[lang] .grid.mobile-fr-3-1-1-4, .mobile-fr-3-1-1-4 .grid {
     grid-template-columns: 3fr 1fr 1fr 4fr !important;
   }
-  .grid.sm-fr-3-1-2, .sm-fr-3-1-2 .grid {
+  html[lang] .grid.mobile-fr-3-1-2, .mobile-fr-3-1-2 .grid {
     grid-template-columns: 3fr 1fr 2fr !important;
   }
-  .grid.sm-fr-3-1-2-1, .sm-fr-3-1-2-1 .grid {
+  html[lang] .grid.mobile-fr-3-1-2-1, .mobile-fr-3-1-2-1 .grid {
     grid-template-columns: 3fr 1fr 2fr 1fr !important;
   }
-  .grid.sm-fr-3-1-2-2, .sm-fr-3-1-2-2 .grid {
+  html[lang] .grid.mobile-fr-3-1-2-2, .mobile-fr-3-1-2-2 .grid {
     grid-template-columns: 3fr 1fr 2fr 2fr !important;
   }
-  .grid.sm-fr-3-1-2-3, .sm-fr-3-1-2-3 .grid {
+  html[lang] .grid.mobile-fr-3-1-2-3, .mobile-fr-3-1-2-3 .grid {
     grid-template-columns: 3fr 1fr 2fr 3fr !important;
   }
-  .grid.sm-fr-3-1-2-4, .sm-fr-3-1-2-4 .grid {
+  html[lang] .grid.mobile-fr-3-1-2-4, .mobile-fr-3-1-2-4 .grid {
     grid-template-columns: 3fr 1fr 2fr 4fr !important;
   }
-  .grid.sm-fr-3-1-3, .sm-fr-3-1-3 .grid {
+  html[lang] .grid.mobile-fr-3-1-3, .mobile-fr-3-1-3 .grid {
     grid-template-columns: 3fr 1fr 3fr !important;
   }
-  .grid.sm-fr-3-1-3-1, .sm-fr-3-1-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-1-3-1, .mobile-fr-3-1-3-1 .grid {
     grid-template-columns: 3fr 1fr 3fr 1fr !important;
   }
-  .grid.sm-fr-3-1-3-2, .sm-fr-3-1-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-1-3-2, .mobile-fr-3-1-3-2 .grid {
     grid-template-columns: 3fr 1fr 3fr 2fr !important;
   }
-  .grid.sm-fr-3-1-3-3, .sm-fr-3-1-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-1-3-3, .mobile-fr-3-1-3-3 .grid {
     grid-template-columns: 3fr 1fr 3fr 3fr !important;
   }
-  .grid.sm-fr-3-1-3-4, .sm-fr-3-1-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-1-3-4, .mobile-fr-3-1-3-4 .grid {
     grid-template-columns: 3fr 1fr 3fr 4fr !important;
   }
-  .grid.sm-fr-3-1-4, .sm-fr-3-1-4 .grid {
+  html[lang] .grid.mobile-fr-3-1-4, .mobile-fr-3-1-4 .grid {
     grid-template-columns: 3fr 1fr 4fr !important;
   }
-  .grid.sm-fr-3-1-4-1, .sm-fr-3-1-4-1 .grid {
+  html[lang] .grid.mobile-fr-3-1-4-1, .mobile-fr-3-1-4-1 .grid {
     grid-template-columns: 3fr 1fr 4fr 1fr !important;
   }
-  .grid.sm-fr-3-1-4-2, .sm-fr-3-1-4-2 .grid {
+  html[lang] .grid.mobile-fr-3-1-4-2, .mobile-fr-3-1-4-2 .grid {
     grid-template-columns: 3fr 1fr 4fr 2fr !important;
   }
-  .grid.sm-fr-3-1-4-3, .sm-fr-3-1-4-3 .grid {
+  html[lang] .grid.mobile-fr-3-1-4-3, .mobile-fr-3-1-4-3 .grid {
     grid-template-columns: 3fr 1fr 4fr 3fr !important;
   }
-  .grid.sm-fr-3-1-4-4, .sm-fr-3-1-4-4 .grid {
+  html[lang] .grid.mobile-fr-3-1-4-4, .mobile-fr-3-1-4-4 .grid {
     grid-template-columns: 3fr 1fr 4fr 4fr !important;
   }
-  .grid.sm-fr-3-2, .sm-fr-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-2, .mobile-fr-3-2 .grid {
     grid-template-columns: 3fr 2fr !important;
   }
-  .grid.sm-fr-3-2-1, .sm-fr-3-2-1 .grid {
+  html[lang] .grid.mobile-fr-3-2-1, .mobile-fr-3-2-1 .grid {
     grid-template-columns: 3fr 2fr 1fr !important;
   }
-  .grid.sm-fr-3-2-1-1, .sm-fr-3-2-1-1 .grid {
+  html[lang] .grid.mobile-fr-3-2-1-1, .mobile-fr-3-2-1-1 .grid {
     grid-template-columns: 3fr 2fr 1fr 1fr !important;
   }
-  .grid.sm-fr-3-2-1-2, .sm-fr-3-2-1-2 .grid {
+  html[lang] .grid.mobile-fr-3-2-1-2, .mobile-fr-3-2-1-2 .grid {
     grid-template-columns: 3fr 2fr 1fr 2fr !important;
   }
-  .grid.sm-fr-3-2-1-3, .sm-fr-3-2-1-3 .grid {
+  html[lang] .grid.mobile-fr-3-2-1-3, .mobile-fr-3-2-1-3 .grid {
     grid-template-columns: 3fr 2fr 1fr 3fr !important;
   }
-  .grid.sm-fr-3-2-1-4, .sm-fr-3-2-1-4 .grid {
+  html[lang] .grid.mobile-fr-3-2-1-4, .mobile-fr-3-2-1-4 .grid {
     grid-template-columns: 3fr 2fr 1fr 4fr !important;
   }
-  .grid.sm-fr-3-2-2, .sm-fr-3-2-2 .grid {
+  html[lang] .grid.mobile-fr-3-2-2, .mobile-fr-3-2-2 .grid {
     grid-template-columns: 3fr 2fr 2fr !important;
   }
-  .grid.sm-fr-3-2-2-1, .sm-fr-3-2-2-1 .grid {
+  html[lang] .grid.mobile-fr-3-2-2-1, .mobile-fr-3-2-2-1 .grid {
     grid-template-columns: 3fr 2fr 2fr 1fr !important;
   }
-  .grid.sm-fr-3-2-2-2, .sm-fr-3-2-2-2 .grid {
+  html[lang] .grid.mobile-fr-3-2-2-2, .mobile-fr-3-2-2-2 .grid {
     grid-template-columns: 3fr 2fr 2fr 2fr !important;
   }
-  .grid.sm-fr-3-2-2-3, .sm-fr-3-2-2-3 .grid {
+  html[lang] .grid.mobile-fr-3-2-2-3, .mobile-fr-3-2-2-3 .grid {
     grid-template-columns: 3fr 2fr 2fr 3fr !important;
   }
-  .grid.sm-fr-3-2-2-4, .sm-fr-3-2-2-4 .grid {
+  html[lang] .grid.mobile-fr-3-2-2-4, .mobile-fr-3-2-2-4 .grid {
     grid-template-columns: 3fr 2fr 2fr 4fr !important;
   }
-  .grid.sm-fr-3-2-3, .sm-fr-3-2-3 .grid {
+  html[lang] .grid.mobile-fr-3-2-3, .mobile-fr-3-2-3 .grid {
     grid-template-columns: 3fr 2fr 3fr !important;
   }
-  .grid.sm-fr-3-2-3-1, .sm-fr-3-2-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-2-3-1, .mobile-fr-3-2-3-1 .grid {
     grid-template-columns: 3fr 2fr 3fr 1fr !important;
   }
-  .grid.sm-fr-3-2-3-2, .sm-fr-3-2-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-2-3-2, .mobile-fr-3-2-3-2 .grid {
     grid-template-columns: 3fr 2fr 3fr 2fr !important;
   }
-  .grid.sm-fr-3-2-3-3, .sm-fr-3-2-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-2-3-3, .mobile-fr-3-2-3-3 .grid {
     grid-template-columns: 3fr 2fr 3fr 3fr !important;
   }
-  .grid.sm-fr-3-2-3-4, .sm-fr-3-2-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-2-3-4, .mobile-fr-3-2-3-4 .grid {
     grid-template-columns: 3fr 2fr 3fr 4fr !important;
   }
-  .grid.sm-fr-3-2-4, .sm-fr-3-2-4 .grid {
+  html[lang] .grid.mobile-fr-3-2-4, .mobile-fr-3-2-4 .grid {
     grid-template-columns: 3fr 2fr 4fr !important;
   }
-  .grid.sm-fr-3-2-4-1, .sm-fr-3-2-4-1 .grid {
+  html[lang] .grid.mobile-fr-3-2-4-1, .mobile-fr-3-2-4-1 .grid {
     grid-template-columns: 3fr 2fr 4fr 1fr !important;
   }
-  .grid.sm-fr-3-2-4-2, .sm-fr-3-2-4-2 .grid {
+  html[lang] .grid.mobile-fr-3-2-4-2, .mobile-fr-3-2-4-2 .grid {
     grid-template-columns: 3fr 2fr 4fr 2fr !important;
   }
-  .grid.sm-fr-3-2-4-3, .sm-fr-3-2-4-3 .grid {
+  html[lang] .grid.mobile-fr-3-2-4-3, .mobile-fr-3-2-4-3 .grid {
     grid-template-columns: 3fr 2fr 4fr 3fr !important;
   }
-  .grid.sm-fr-3-2-4-4, .sm-fr-3-2-4-4 .grid {
+  html[lang] .grid.mobile-fr-3-2-4-4, .mobile-fr-3-2-4-4 .grid {
     grid-template-columns: 3fr 2fr 4fr 4fr !important;
   }
-  .grid.sm-fr-3-3, .sm-fr-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-3, .mobile-fr-3-3 .grid {
     grid-template-columns: 3fr 3fr !important;
   }
-  .grid.sm-fr-3-3-1, .sm-fr-3-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-3-1, .mobile-fr-3-3-1 .grid {
     grid-template-columns: 3fr 3fr 1fr !important;
   }
-  .grid.sm-fr-3-3-1-1, .sm-fr-3-3-1-1 .grid {
+  html[lang] .grid.mobile-fr-3-3-1-1, .mobile-fr-3-3-1-1 .grid {
     grid-template-columns: 3fr 3fr 1fr 1fr !important;
   }
-  .grid.sm-fr-3-3-1-2, .sm-fr-3-3-1-2 .grid {
+  html[lang] .grid.mobile-fr-3-3-1-2, .mobile-fr-3-3-1-2 .grid {
     grid-template-columns: 3fr 3fr 1fr 2fr !important;
   }
-  .grid.sm-fr-3-3-1-3, .sm-fr-3-3-1-3 .grid {
+  html[lang] .grid.mobile-fr-3-3-1-3, .mobile-fr-3-3-1-3 .grid {
     grid-template-columns: 3fr 3fr 1fr 3fr !important;
   }
-  .grid.sm-fr-3-3-1-4, .sm-fr-3-3-1-4 .grid {
+  html[lang] .grid.mobile-fr-3-3-1-4, .mobile-fr-3-3-1-4 .grid {
     grid-template-columns: 3fr 3fr 1fr 4fr !important;
   }
-  .grid.sm-fr-3-3-2, .sm-fr-3-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-3-2, .mobile-fr-3-3-2 .grid {
     grid-template-columns: 3fr 3fr 2fr !important;
   }
-  .grid.sm-fr-3-3-2-1, .sm-fr-3-3-2-1 .grid {
+  html[lang] .grid.mobile-fr-3-3-2-1, .mobile-fr-3-3-2-1 .grid {
     grid-template-columns: 3fr 3fr 2fr 1fr !important;
   }
-  .grid.sm-fr-3-3-2-2, .sm-fr-3-3-2-2 .grid {
+  html[lang] .grid.mobile-fr-3-3-2-2, .mobile-fr-3-3-2-2 .grid {
     grid-template-columns: 3fr 3fr 2fr 2fr !important;
   }
-  .grid.sm-fr-3-3-2-3, .sm-fr-3-3-2-3 .grid {
+  html[lang] .grid.mobile-fr-3-3-2-3, .mobile-fr-3-3-2-3 .grid {
     grid-template-columns: 3fr 3fr 2fr 3fr !important;
   }
-  .grid.sm-fr-3-3-2-4, .sm-fr-3-3-2-4 .grid {
+  html[lang] .grid.mobile-fr-3-3-2-4, .mobile-fr-3-3-2-4 .grid {
     grid-template-columns: 3fr 3fr 2fr 4fr !important;
   }
-  .grid.sm-fr-3-3-3, .sm-fr-3-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-3-3, .mobile-fr-3-3-3 .grid {
     grid-template-columns: 3fr 3fr 3fr !important;
   }
-  .grid.sm-fr-3-3-3-1, .sm-fr-3-3-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-3-3-1, .mobile-fr-3-3-3-1 .grid {
     grid-template-columns: 3fr 3fr 3fr 1fr !important;
   }
-  .grid.sm-fr-3-3-3-2, .sm-fr-3-3-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-3-3-2, .mobile-fr-3-3-3-2 .grid {
     grid-template-columns: 3fr 3fr 3fr 2fr !important;
   }
-  .grid.sm-fr-3-3-3-3, .sm-fr-3-3-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-3-3-3, .mobile-fr-3-3-3-3 .grid {
     grid-template-columns: 3fr 3fr 3fr 3fr !important;
   }
-  .grid.sm-fr-3-3-3-4, .sm-fr-3-3-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-3-3-4, .mobile-fr-3-3-3-4 .grid {
     grid-template-columns: 3fr 3fr 3fr 4fr !important;
   }
-  .grid.sm-fr-3-3-4, .sm-fr-3-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-3-4, .mobile-fr-3-3-4 .grid {
     grid-template-columns: 3fr 3fr 4fr !important;
   }
-  .grid.sm-fr-3-3-4-1, .sm-fr-3-3-4-1 .grid {
+  html[lang] .grid.mobile-fr-3-3-4-1, .mobile-fr-3-3-4-1 .grid {
     grid-template-columns: 3fr 3fr 4fr 1fr !important;
   }
-  .grid.sm-fr-3-3-4-2, .sm-fr-3-3-4-2 .grid {
+  html[lang] .grid.mobile-fr-3-3-4-2, .mobile-fr-3-3-4-2 .grid {
     grid-template-columns: 3fr 3fr 4fr 2fr !important;
   }
-  .grid.sm-fr-3-3-4-3, .sm-fr-3-3-4-3 .grid {
+  html[lang] .grid.mobile-fr-3-3-4-3, .mobile-fr-3-3-4-3 .grid {
     grid-template-columns: 3fr 3fr 4fr 3fr !important;
   }
-  .grid.sm-fr-3-3-4-4, .sm-fr-3-3-4-4 .grid {
+  html[lang] .grid.mobile-fr-3-3-4-4, .mobile-fr-3-3-4-4 .grid {
     grid-template-columns: 3fr 3fr 4fr 4fr !important;
   }
-  .grid.sm-fr-3-4, .sm-fr-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-4, .mobile-fr-3-4 .grid {
     grid-template-columns: 3fr 4fr !important;
   }
-  .grid.sm-fr-3-4-1, .sm-fr-3-4-1 .grid {
+  html[lang] .grid.mobile-fr-3-4-1, .mobile-fr-3-4-1 .grid {
     grid-template-columns: 3fr 4fr 1fr !important;
   }
-  .grid.sm-fr-3-4-1-1, .sm-fr-3-4-1-1 .grid {
+  html[lang] .grid.mobile-fr-3-4-1-1, .mobile-fr-3-4-1-1 .grid {
     grid-template-columns: 3fr 4fr 1fr 1fr !important;
   }
-  .grid.sm-fr-3-4-1-2, .sm-fr-3-4-1-2 .grid {
+  html[lang] .grid.mobile-fr-3-4-1-2, .mobile-fr-3-4-1-2 .grid {
     grid-template-columns: 3fr 4fr 1fr 2fr !important;
   }
-  .grid.sm-fr-3-4-1-3, .sm-fr-3-4-1-3 .grid {
+  html[lang] .grid.mobile-fr-3-4-1-3, .mobile-fr-3-4-1-3 .grid {
     grid-template-columns: 3fr 4fr 1fr 3fr !important;
   }
-  .grid.sm-fr-3-4-1-4, .sm-fr-3-4-1-4 .grid {
+  html[lang] .grid.mobile-fr-3-4-1-4, .mobile-fr-3-4-1-4 .grid {
     grid-template-columns: 3fr 4fr 1fr 4fr !important;
   }
-  .grid.sm-fr-3-4-2, .sm-fr-3-4-2 .grid {
+  html[lang] .grid.mobile-fr-3-4-2, .mobile-fr-3-4-2 .grid {
     grid-template-columns: 3fr 4fr 2fr !important;
   }
-  .grid.sm-fr-3-4-2-1, .sm-fr-3-4-2-1 .grid {
+  html[lang] .grid.mobile-fr-3-4-2-1, .mobile-fr-3-4-2-1 .grid {
     grid-template-columns: 3fr 4fr 2fr 1fr !important;
   }
-  .grid.sm-fr-3-4-2-2, .sm-fr-3-4-2-2 .grid {
+  html[lang] .grid.mobile-fr-3-4-2-2, .mobile-fr-3-4-2-2 .grid {
     grid-template-columns: 3fr 4fr 2fr 2fr !important;
   }
-  .grid.sm-fr-3-4-2-3, .sm-fr-3-4-2-3 .grid {
+  html[lang] .grid.mobile-fr-3-4-2-3, .mobile-fr-3-4-2-3 .grid {
     grid-template-columns: 3fr 4fr 2fr 3fr !important;
   }
-  .grid.sm-fr-3-4-2-4, .sm-fr-3-4-2-4 .grid {
+  html[lang] .grid.mobile-fr-3-4-2-4, .mobile-fr-3-4-2-4 .grid {
     grid-template-columns: 3fr 4fr 2fr 4fr !important;
   }
-  .grid.sm-fr-3-4-3, .sm-fr-3-4-3 .grid {
+  html[lang] .grid.mobile-fr-3-4-3, .mobile-fr-3-4-3 .grid {
     grid-template-columns: 3fr 4fr 3fr !important;
   }
-  .grid.sm-fr-3-4-3-1, .sm-fr-3-4-3-1 .grid {
+  html[lang] .grid.mobile-fr-3-4-3-1, .mobile-fr-3-4-3-1 .grid {
     grid-template-columns: 3fr 4fr 3fr 1fr !important;
   }
-  .grid.sm-fr-3-4-3-2, .sm-fr-3-4-3-2 .grid {
+  html[lang] .grid.mobile-fr-3-4-3-2, .mobile-fr-3-4-3-2 .grid {
     grid-template-columns: 3fr 4fr 3fr 2fr !important;
   }
-  .grid.sm-fr-3-4-3-3, .sm-fr-3-4-3-3 .grid {
+  html[lang] .grid.mobile-fr-3-4-3-3, .mobile-fr-3-4-3-3 .grid {
     grid-template-columns: 3fr 4fr 3fr 3fr !important;
   }
-  .grid.sm-fr-3-4-3-4, .sm-fr-3-4-3-4 .grid {
+  html[lang] .grid.mobile-fr-3-4-3-4, .mobile-fr-3-4-3-4 .grid {
     grid-template-columns: 3fr 4fr 3fr 4fr !important;
   }
-  .grid.sm-fr-3-4-4, .sm-fr-3-4-4 .grid {
+  html[lang] .grid.mobile-fr-3-4-4, .mobile-fr-3-4-4 .grid {
     grid-template-columns: 3fr 4fr 4fr !important;
   }
-  .grid.sm-fr-3-4-4-1, .sm-fr-3-4-4-1 .grid {
+  html[lang] .grid.mobile-fr-3-4-4-1, .mobile-fr-3-4-4-1 .grid {
     grid-template-columns: 3fr 4fr 4fr 1fr !important;
   }
-  .grid.sm-fr-3-4-4-2, .sm-fr-3-4-4-2 .grid {
+  html[lang] .grid.mobile-fr-3-4-4-2, .mobile-fr-3-4-4-2 .grid {
     grid-template-columns: 3fr 4fr 4fr 2fr !important;
   }
-  .grid.sm-fr-3-4-4-3, .sm-fr-3-4-4-3 .grid {
+  html[lang] .grid.mobile-fr-3-4-4-3, .mobile-fr-3-4-4-3 .grid {
     grid-template-columns: 3fr 4fr 4fr 3fr !important;
   }
-  .grid.sm-fr-3-4-4-4, .sm-fr-3-4-4-4 .grid {
+  html[lang] .grid.mobile-fr-3-4-4-4, .mobile-fr-3-4-4-4 .grid {
     grid-template-columns: 3fr 4fr 4fr 4fr !important;
   }
-  .grid.sm-fr-4, .sm-fr-4 .grid {
+  html[lang] .grid.mobile-fr-4, .mobile-fr-4 .grid {
     grid-template-columns: 4fr !important;
   }
-  .grid.sm-fr-4-1, .sm-fr-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-1, .mobile-fr-4-1 .grid {
     grid-template-columns: 4fr 1fr !important;
   }
-  .grid.sm-fr-4-1-1, .sm-fr-4-1-1 .grid {
+  html[lang] .grid.mobile-fr-4-1-1, .mobile-fr-4-1-1 .grid {
     grid-template-columns: 4fr 1fr 1fr !important;
   }
-  .grid.sm-fr-4-1-1-1, .sm-fr-4-1-1-1 .grid {
+  html[lang] .grid.mobile-fr-4-1-1-1, .mobile-fr-4-1-1-1 .grid {
     grid-template-columns: 4fr 1fr 1fr 1fr !important;
   }
-  .grid.sm-fr-4-1-1-2, .sm-fr-4-1-1-2 .grid {
+  html[lang] .grid.mobile-fr-4-1-1-2, .mobile-fr-4-1-1-2 .grid {
     grid-template-columns: 4fr 1fr 1fr 2fr !important;
   }
-  .grid.sm-fr-4-1-1-3, .sm-fr-4-1-1-3 .grid {
+  html[lang] .grid.mobile-fr-4-1-1-3, .mobile-fr-4-1-1-3 .grid {
     grid-template-columns: 4fr 1fr 1fr 3fr !important;
   }
-  .grid.sm-fr-4-1-1-4, .sm-fr-4-1-1-4 .grid {
+  html[lang] .grid.mobile-fr-4-1-1-4, .mobile-fr-4-1-1-4 .grid {
     grid-template-columns: 4fr 1fr 1fr 4fr !important;
   }
-  .grid.sm-fr-4-1-2, .sm-fr-4-1-2 .grid {
+  html[lang] .grid.mobile-fr-4-1-2, .mobile-fr-4-1-2 .grid {
     grid-template-columns: 4fr 1fr 2fr !important;
   }
-  .grid.sm-fr-4-1-2-1, .sm-fr-4-1-2-1 .grid {
+  html[lang] .grid.mobile-fr-4-1-2-1, .mobile-fr-4-1-2-1 .grid {
     grid-template-columns: 4fr 1fr 2fr 1fr !important;
   }
-  .grid.sm-fr-4-1-2-2, .sm-fr-4-1-2-2 .grid {
+  html[lang] .grid.mobile-fr-4-1-2-2, .mobile-fr-4-1-2-2 .grid {
     grid-template-columns: 4fr 1fr 2fr 2fr !important;
   }
-  .grid.sm-fr-4-1-2-3, .sm-fr-4-1-2-3 .grid {
+  html[lang] .grid.mobile-fr-4-1-2-3, .mobile-fr-4-1-2-3 .grid {
     grid-template-columns: 4fr 1fr 2fr 3fr !important;
   }
-  .grid.sm-fr-4-1-2-4, .sm-fr-4-1-2-4 .grid {
+  html[lang] .grid.mobile-fr-4-1-2-4, .mobile-fr-4-1-2-4 .grid {
     grid-template-columns: 4fr 1fr 2fr 4fr !important;
   }
-  .grid.sm-fr-4-1-3, .sm-fr-4-1-3 .grid {
+  html[lang] .grid.mobile-fr-4-1-3, .mobile-fr-4-1-3 .grid {
     grid-template-columns: 4fr 1fr 3fr !important;
   }
-  .grid.sm-fr-4-1-3-1, .sm-fr-4-1-3-1 .grid {
+  html[lang] .grid.mobile-fr-4-1-3-1, .mobile-fr-4-1-3-1 .grid {
     grid-template-columns: 4fr 1fr 3fr 1fr !important;
   }
-  .grid.sm-fr-4-1-3-2, .sm-fr-4-1-3-2 .grid {
+  html[lang] .grid.mobile-fr-4-1-3-2, .mobile-fr-4-1-3-2 .grid {
     grid-template-columns: 4fr 1fr 3fr 2fr !important;
   }
-  .grid.sm-fr-4-1-3-3, .sm-fr-4-1-3-3 .grid {
+  html[lang] .grid.mobile-fr-4-1-3-3, .mobile-fr-4-1-3-3 .grid {
     grid-template-columns: 4fr 1fr 3fr 3fr !important;
   }
-  .grid.sm-fr-4-1-3-4, .sm-fr-4-1-3-4 .grid {
+  html[lang] .grid.mobile-fr-4-1-3-4, .mobile-fr-4-1-3-4 .grid {
     grid-template-columns: 4fr 1fr 3fr 4fr !important;
   }
-  .grid.sm-fr-4-1-4, .sm-fr-4-1-4 .grid {
+  html[lang] .grid.mobile-fr-4-1-4, .mobile-fr-4-1-4 .grid {
     grid-template-columns: 4fr 1fr 4fr !important;
   }
-  .grid.sm-fr-4-1-4-1, .sm-fr-4-1-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-1-4-1, .mobile-fr-4-1-4-1 .grid {
     grid-template-columns: 4fr 1fr 4fr 1fr !important;
   }
-  .grid.sm-fr-4-1-4-2, .sm-fr-4-1-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-1-4-2, .mobile-fr-4-1-4-2 .grid {
     grid-template-columns: 4fr 1fr 4fr 2fr !important;
   }
-  .grid.sm-fr-4-1-4-3, .sm-fr-4-1-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-1-4-3, .mobile-fr-4-1-4-3 .grid {
     grid-template-columns: 4fr 1fr 4fr 3fr !important;
   }
-  .grid.sm-fr-4-1-4-4, .sm-fr-4-1-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-1-4-4, .mobile-fr-4-1-4-4 .grid {
     grid-template-columns: 4fr 1fr 4fr 4fr !important;
   }
-  .grid.sm-fr-4-2, .sm-fr-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-2, .mobile-fr-4-2 .grid {
     grid-template-columns: 4fr 2fr !important;
   }
-  .grid.sm-fr-4-2-1, .sm-fr-4-2-1 .grid {
+  html[lang] .grid.mobile-fr-4-2-1, .mobile-fr-4-2-1 .grid {
     grid-template-columns: 4fr 2fr 1fr !important;
   }
-  .grid.sm-fr-4-2-1-1, .sm-fr-4-2-1-1 .grid {
+  html[lang] .grid.mobile-fr-4-2-1-1, .mobile-fr-4-2-1-1 .grid {
     grid-template-columns: 4fr 2fr 1fr 1fr !important;
   }
-  .grid.sm-fr-4-2-1-2, .sm-fr-4-2-1-2 .grid {
+  html[lang] .grid.mobile-fr-4-2-1-2, .mobile-fr-4-2-1-2 .grid {
     grid-template-columns: 4fr 2fr 1fr 2fr !important;
   }
-  .grid.sm-fr-4-2-1-3, .sm-fr-4-2-1-3 .grid {
+  html[lang] .grid.mobile-fr-4-2-1-3, .mobile-fr-4-2-1-3 .grid {
     grid-template-columns: 4fr 2fr 1fr 3fr !important;
   }
-  .grid.sm-fr-4-2-1-4, .sm-fr-4-2-1-4 .grid {
+  html[lang] .grid.mobile-fr-4-2-1-4, .mobile-fr-4-2-1-4 .grid {
     grid-template-columns: 4fr 2fr 1fr 4fr !important;
   }
-  .grid.sm-fr-4-2-2, .sm-fr-4-2-2 .grid {
+  html[lang] .grid.mobile-fr-4-2-2, .mobile-fr-4-2-2 .grid {
     grid-template-columns: 4fr 2fr 2fr !important;
   }
-  .grid.sm-fr-4-2-2-1, .sm-fr-4-2-2-1 .grid {
+  html[lang] .grid.mobile-fr-4-2-2-1, .mobile-fr-4-2-2-1 .grid {
     grid-template-columns: 4fr 2fr 2fr 1fr !important;
   }
-  .grid.sm-fr-4-2-2-2, .sm-fr-4-2-2-2 .grid {
+  html[lang] .grid.mobile-fr-4-2-2-2, .mobile-fr-4-2-2-2 .grid {
     grid-template-columns: 4fr 2fr 2fr 2fr !important;
   }
-  .grid.sm-fr-4-2-2-3, .sm-fr-4-2-2-3 .grid {
+  html[lang] .grid.mobile-fr-4-2-2-3, .mobile-fr-4-2-2-3 .grid {
     grid-template-columns: 4fr 2fr 2fr 3fr !important;
   }
-  .grid.sm-fr-4-2-2-4, .sm-fr-4-2-2-4 .grid {
+  html[lang] .grid.mobile-fr-4-2-2-4, .mobile-fr-4-2-2-4 .grid {
     grid-template-columns: 4fr 2fr 2fr 4fr !important;
   }
-  .grid.sm-fr-4-2-3, .sm-fr-4-2-3 .grid {
+  html[lang] .grid.mobile-fr-4-2-3, .mobile-fr-4-2-3 .grid {
     grid-template-columns: 4fr 2fr 3fr !important;
   }
-  .grid.sm-fr-4-2-3-1, .sm-fr-4-2-3-1 .grid {
+  html[lang] .grid.mobile-fr-4-2-3-1, .mobile-fr-4-2-3-1 .grid {
     grid-template-columns: 4fr 2fr 3fr 1fr !important;
   }
-  .grid.sm-fr-4-2-3-2, .sm-fr-4-2-3-2 .grid {
+  html[lang] .grid.mobile-fr-4-2-3-2, .mobile-fr-4-2-3-2 .grid {
     grid-template-columns: 4fr 2fr 3fr 2fr !important;
   }
-  .grid.sm-fr-4-2-3-3, .sm-fr-4-2-3-3 .grid {
+  html[lang] .grid.mobile-fr-4-2-3-3, .mobile-fr-4-2-3-3 .grid {
     grid-template-columns: 4fr 2fr 3fr 3fr !important;
   }
-  .grid.sm-fr-4-2-3-4, .sm-fr-4-2-3-4 .grid {
+  html[lang] .grid.mobile-fr-4-2-3-4, .mobile-fr-4-2-3-4 .grid {
     grid-template-columns: 4fr 2fr 3fr 4fr !important;
   }
-  .grid.sm-fr-4-2-4, .sm-fr-4-2-4 .grid {
+  html[lang] .grid.mobile-fr-4-2-4, .mobile-fr-4-2-4 .grid {
     grid-template-columns: 4fr 2fr 4fr !important;
   }
-  .grid.sm-fr-4-2-4-1, .sm-fr-4-2-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-2-4-1, .mobile-fr-4-2-4-1 .grid {
     grid-template-columns: 4fr 2fr 4fr 1fr !important;
   }
-  .grid.sm-fr-4-2-4-2, .sm-fr-4-2-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-2-4-2, .mobile-fr-4-2-4-2 .grid {
     grid-template-columns: 4fr 2fr 4fr 2fr !important;
   }
-  .grid.sm-fr-4-2-4-3, .sm-fr-4-2-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-2-4-3, .mobile-fr-4-2-4-3 .grid {
     grid-template-columns: 4fr 2fr 4fr 3fr !important;
   }
-  .grid.sm-fr-4-2-4-4, .sm-fr-4-2-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-2-4-4, .mobile-fr-4-2-4-4 .grid {
     grid-template-columns: 4fr 2fr 4fr 4fr !important;
   }
-  .grid.sm-fr-4-3, .sm-fr-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-3, .mobile-fr-4-3 .grid {
     grid-template-columns: 4fr 3fr !important;
   }
-  .grid.sm-fr-4-3-1, .sm-fr-4-3-1 .grid {
+  html[lang] .grid.mobile-fr-4-3-1, .mobile-fr-4-3-1 .grid {
     grid-template-columns: 4fr 3fr 1fr !important;
   }
-  .grid.sm-fr-4-3-1-1, .sm-fr-4-3-1-1 .grid {
+  html[lang] .grid.mobile-fr-4-3-1-1, .mobile-fr-4-3-1-1 .grid {
     grid-template-columns: 4fr 3fr 1fr 1fr !important;
   }
-  .grid.sm-fr-4-3-1-2, .sm-fr-4-3-1-2 .grid {
+  html[lang] .grid.mobile-fr-4-3-1-2, .mobile-fr-4-3-1-2 .grid {
     grid-template-columns: 4fr 3fr 1fr 2fr !important;
   }
-  .grid.sm-fr-4-3-1-3, .sm-fr-4-3-1-3 .grid {
+  html[lang] .grid.mobile-fr-4-3-1-3, .mobile-fr-4-3-1-3 .grid {
     grid-template-columns: 4fr 3fr 1fr 3fr !important;
   }
-  .grid.sm-fr-4-3-1-4, .sm-fr-4-3-1-4 .grid {
+  html[lang] .grid.mobile-fr-4-3-1-4, .mobile-fr-4-3-1-4 .grid {
     grid-template-columns: 4fr 3fr 1fr 4fr !important;
   }
-  .grid.sm-fr-4-3-2, .sm-fr-4-3-2 .grid {
+  html[lang] .grid.mobile-fr-4-3-2, .mobile-fr-4-3-2 .grid {
     grid-template-columns: 4fr 3fr 2fr !important;
   }
-  .grid.sm-fr-4-3-2-1, .sm-fr-4-3-2-1 .grid {
+  html[lang] .grid.mobile-fr-4-3-2-1, .mobile-fr-4-3-2-1 .grid {
     grid-template-columns: 4fr 3fr 2fr 1fr !important;
   }
-  .grid.sm-fr-4-3-2-2, .sm-fr-4-3-2-2 .grid {
+  html[lang] .grid.mobile-fr-4-3-2-2, .mobile-fr-4-3-2-2 .grid {
     grid-template-columns: 4fr 3fr 2fr 2fr !important;
   }
-  .grid.sm-fr-4-3-2-3, .sm-fr-4-3-2-3 .grid {
+  html[lang] .grid.mobile-fr-4-3-2-3, .mobile-fr-4-3-2-3 .grid {
     grid-template-columns: 4fr 3fr 2fr 3fr !important;
   }
-  .grid.sm-fr-4-3-2-4, .sm-fr-4-3-2-4 .grid {
+  html[lang] .grid.mobile-fr-4-3-2-4, .mobile-fr-4-3-2-4 .grid {
     grid-template-columns: 4fr 3fr 2fr 4fr !important;
   }
-  .grid.sm-fr-4-3-3, .sm-fr-4-3-3 .grid {
+  html[lang] .grid.mobile-fr-4-3-3, .mobile-fr-4-3-3 .grid {
     grid-template-columns: 4fr 3fr 3fr !important;
   }
-  .grid.sm-fr-4-3-3-1, .sm-fr-4-3-3-1 .grid {
+  html[lang] .grid.mobile-fr-4-3-3-1, .mobile-fr-4-3-3-1 .grid {
     grid-template-columns: 4fr 3fr 3fr 1fr !important;
   }
-  .grid.sm-fr-4-3-3-2, .sm-fr-4-3-3-2 .grid {
+  html[lang] .grid.mobile-fr-4-3-3-2, .mobile-fr-4-3-3-2 .grid {
     grid-template-columns: 4fr 3fr 3fr 2fr !important;
   }
-  .grid.sm-fr-4-3-3-3, .sm-fr-4-3-3-3 .grid {
+  html[lang] .grid.mobile-fr-4-3-3-3, .mobile-fr-4-3-3-3 .grid {
     grid-template-columns: 4fr 3fr 3fr 3fr !important;
   }
-  .grid.sm-fr-4-3-3-4, .sm-fr-4-3-3-4 .grid {
+  html[lang] .grid.mobile-fr-4-3-3-4, .mobile-fr-4-3-3-4 .grid {
     grid-template-columns: 4fr 3fr 3fr 4fr !important;
   }
-  .grid.sm-fr-4-3-4, .sm-fr-4-3-4 .grid {
+  html[lang] .grid.mobile-fr-4-3-4, .mobile-fr-4-3-4 .grid {
     grid-template-columns: 4fr 3fr 4fr !important;
   }
-  .grid.sm-fr-4-3-4-1, .sm-fr-4-3-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-3-4-1, .mobile-fr-4-3-4-1 .grid {
     grid-template-columns: 4fr 3fr 4fr 1fr !important;
   }
-  .grid.sm-fr-4-3-4-2, .sm-fr-4-3-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-3-4-2, .mobile-fr-4-3-4-2 .grid {
     grid-template-columns: 4fr 3fr 4fr 2fr !important;
   }
-  .grid.sm-fr-4-3-4-3, .sm-fr-4-3-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-3-4-3, .mobile-fr-4-3-4-3 .grid {
     grid-template-columns: 4fr 3fr 4fr 3fr !important;
   }
-  .grid.sm-fr-4-3-4-4, .sm-fr-4-3-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-3-4-4, .mobile-fr-4-3-4-4 .grid {
     grid-template-columns: 4fr 3fr 4fr 4fr !important;
   }
-  .grid.sm-fr-4-4, .sm-fr-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-4, .mobile-fr-4-4 .grid {
     grid-template-columns: 4fr 4fr !important;
   }
-  .grid.sm-fr-4-4-1, .sm-fr-4-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-4-1, .mobile-fr-4-4-1 .grid {
     grid-template-columns: 4fr 4fr 1fr !important;
   }
-  .grid.sm-fr-4-4-1-1, .sm-fr-4-4-1-1 .grid {
+  html[lang] .grid.mobile-fr-4-4-1-1, .mobile-fr-4-4-1-1 .grid {
     grid-template-columns: 4fr 4fr 1fr 1fr !important;
   }
-  .grid.sm-fr-4-4-1-2, .sm-fr-4-4-1-2 .grid {
+  html[lang] .grid.mobile-fr-4-4-1-2, .mobile-fr-4-4-1-2 .grid {
     grid-template-columns: 4fr 4fr 1fr 2fr !important;
   }
-  .grid.sm-fr-4-4-1-3, .sm-fr-4-4-1-3 .grid {
+  html[lang] .grid.mobile-fr-4-4-1-3, .mobile-fr-4-4-1-3 .grid {
     grid-template-columns: 4fr 4fr 1fr 3fr !important;
   }
-  .grid.sm-fr-4-4-1-4, .sm-fr-4-4-1-4 .grid {
+  html[lang] .grid.mobile-fr-4-4-1-4, .mobile-fr-4-4-1-4 .grid {
     grid-template-columns: 4fr 4fr 1fr 4fr !important;
   }
-  .grid.sm-fr-4-4-2, .sm-fr-4-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-4-2, .mobile-fr-4-4-2 .grid {
     grid-template-columns: 4fr 4fr 2fr !important;
   }
-  .grid.sm-fr-4-4-2-1, .sm-fr-4-4-2-1 .grid {
+  html[lang] .grid.mobile-fr-4-4-2-1, .mobile-fr-4-4-2-1 .grid {
     grid-template-columns: 4fr 4fr 2fr 1fr !important;
   }
-  .grid.sm-fr-4-4-2-2, .sm-fr-4-4-2-2 .grid {
+  html[lang] .grid.mobile-fr-4-4-2-2, .mobile-fr-4-4-2-2 .grid {
     grid-template-columns: 4fr 4fr 2fr 2fr !important;
   }
-  .grid.sm-fr-4-4-2-3, .sm-fr-4-4-2-3 .grid {
+  html[lang] .grid.mobile-fr-4-4-2-3, .mobile-fr-4-4-2-3 .grid {
     grid-template-columns: 4fr 4fr 2fr 3fr !important;
   }
-  .grid.sm-fr-4-4-2-4, .sm-fr-4-4-2-4 .grid {
+  html[lang] .grid.mobile-fr-4-4-2-4, .mobile-fr-4-4-2-4 .grid {
     grid-template-columns: 4fr 4fr 2fr 4fr !important;
   }
-  .grid.sm-fr-4-4-3, .sm-fr-4-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-4-3, .mobile-fr-4-4-3 .grid {
     grid-template-columns: 4fr 4fr 3fr !important;
   }
-  .grid.sm-fr-4-4-3-1, .sm-fr-4-4-3-1 .grid {
+  html[lang] .grid.mobile-fr-4-4-3-1, .mobile-fr-4-4-3-1 .grid {
     grid-template-columns: 4fr 4fr 3fr 1fr !important;
   }
-  .grid.sm-fr-4-4-3-2, .sm-fr-4-4-3-2 .grid {
+  html[lang] .grid.mobile-fr-4-4-3-2, .mobile-fr-4-4-3-2 .grid {
     grid-template-columns: 4fr 4fr 3fr 2fr !important;
   }
-  .grid.sm-fr-4-4-3-3, .sm-fr-4-4-3-3 .grid {
+  html[lang] .grid.mobile-fr-4-4-3-3, .mobile-fr-4-4-3-3 .grid {
     grid-template-columns: 4fr 4fr 3fr 3fr !important;
   }
-  .grid.sm-fr-4-4-3-4, .sm-fr-4-4-3-4 .grid {
+  html[lang] .grid.mobile-fr-4-4-3-4, .mobile-fr-4-4-3-4 .grid {
     grid-template-columns: 4fr 4fr 3fr 4fr !important;
   }
-  .grid.sm-fr-4-4-4, .sm-fr-4-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-4-4, .mobile-fr-4-4-4 .grid {
     grid-template-columns: 4fr 4fr 4fr !important;
   }
-  .grid.sm-fr-4-4-4-1, .sm-fr-4-4-4-1 .grid {
+  html[lang] .grid.mobile-fr-4-4-4-1, .mobile-fr-4-4-4-1 .grid {
     grid-template-columns: 4fr 4fr 4fr 1fr !important;
   }
-  .grid.sm-fr-4-4-4-2, .sm-fr-4-4-4-2 .grid {
+  html[lang] .grid.mobile-fr-4-4-4-2, .mobile-fr-4-4-4-2 .grid {
     grid-template-columns: 4fr 4fr 4fr 2fr !important;
   }
-  .grid.sm-fr-4-4-4-3, .sm-fr-4-4-4-3 .grid {
+  html[lang] .grid.mobile-fr-4-4-4-3, .mobile-fr-4-4-4-3 .grid {
     grid-template-columns: 4fr 4fr 4fr 3fr !important;
   }
-  .grid.sm-fr-4-4-4-4, .sm-fr-4-4-4-4 .grid {
+  html[lang] .grid.mobile-fr-4-4-4-4, .mobile-fr-4-4-4-4 .grid {
     grid-template-columns: 4fr 4fr 4fr 4fr !important;
   }
 }
