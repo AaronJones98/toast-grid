@@ -28,6 +28,10 @@
 //Laptop
 @media(max-width:1024px){
 
+    //Common Variations
+    .grid.tablet-fr-1-1-1-1-1, .tablet-fr-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr;}
+    .grid.tablet-fr-1-1-1-1-1-1, .tablet-fr-1-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;}
+
     @for $column1 from 1 through 4{
 
         .grid.tablet-fr-#{$column1}, .tablet-fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
@@ -54,6 +58,10 @@
 
 //Mobile
 @media(max-width:550px){
+
+    //Common Variations
+    .grid.mobile-fr-1-1-1-1-1, .mobile-fr-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr;}
+    .grid.mobile-fr-1-1-1-1-1-1, .mobile-fr-1-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;}
 
     html[lang] .grid{grid-template-columns:1fr !important;}
 
