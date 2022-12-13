@@ -21,6 +21,10 @@
 
 }
 
+//Common Variations
+.grid.fr-1-1-1-1-1, .fr-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr;}
+.grid.fr-1-1-1-1-1-1, .fr-1-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;}
+
 //Laptop
 @media(max-width:1024px){
 
