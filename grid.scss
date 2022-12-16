@@ -59,26 +59,20 @@
 //Mobile
 @media(max-width:550px){
 
-    //Common Variations
-    .grid.mobile-fr-1-1-1-1-1, .mobile-fr-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr;}
-    .grid.mobile-fr-1-1-1-1-1-1, .mobile-fr-1-1-1-1-1-1 .grid{grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;}
-
-    html[lang] .grid{grid-template-columns:1fr !important;}
-
     @for $column1 from 1 through 4{
 
-        html[lang] .grid.mobile-fr-#{$column1}, html[lang] .mobile-fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
+        .grid.mobile-fr-#{$column1}, html[lang] .mobile-fr-#{$column1} .grid{grid-template-columns:#{$column1}fr !important;}
     
         @for $column2 from 1 through 4{
     
-            html[lang] .grid.mobile-fr-#{$column1}-#{$column2}, html[lang] .mobile-fr-#{$column1}-#{$column2} .grid{grid-template-columns:#{$column1}fr #{$column2}fr !important;}
+            .grid.mobile-fr-#{$column1}-#{$column2}, html[lang] .mobile-fr-#{$column1}-#{$column2} .grid{grid-template-columns:#{$column1}fr #{$column2}fr !important;}
     
             @for $column3 from 1 through 4{
     
-                html[lang] .grid.mobile-fr-#{$column1}-#{$column2}-#{$column3}, html[lang] .mobile-fr-#{$column1}-#{$column2}-#{$column3} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr !important;}
+               .grid.mobile-fr-#{$column1}-#{$column2}-#{$column3}, html[lang] .mobile-fr-#{$column1}-#{$column2}-#{$column3} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr !important;}
                 
                 @for $column4 from 1 through 4{
-                    html[lang] .grid.mobile-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4}, html[lang] .mobile-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr #{$column4}fr !important;}
+                    .grid.mobile-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4}, html[lang] .mobile-fr-#{$column1}-#{$column2}-#{$column3}-#{$column4} .grid{grid-template-columns:#{$column1}fr #{$column2}fr #{$column3}fr #{$column4}fr !important;}
                 }
     
             }
